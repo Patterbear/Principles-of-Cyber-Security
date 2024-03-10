@@ -1,0 +1,8 @@
+=====================================================================
+Unit 1: Introduction to Cyber Security
+Lesson 0: Introduction
+=====================================================================
+
+In this online course you will learn about the roles and issues relating to cyber security. You will gain an understanding of cyber security and the impact that cyber crime can have on individuals, businesses and nations. You will develop an understanding of the motivations of cyber crime and where potential threats can come from. You will also investigate various job functions in the sector and identify the key skill requirements.
+
+In this section, you will gain an understanding of cyber security and the impact that cyber crime can have on individuals, businesses and nations. You will understand the motivations and reasons as to why cyber crime can occur and where potential threats can originate from. Finally, you will understand how attacks can be both targeted and untargeted.

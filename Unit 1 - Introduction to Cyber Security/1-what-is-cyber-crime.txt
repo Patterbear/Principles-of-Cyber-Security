@@ -1,0 +1,41 @@
+=====================================================================
+Unit 1: Introduction to Cyber Security
+Lesson 1: What is ‘cyber crime’?
+=====================================================================
+
+Cyber crime can be classed as any criminal activity which involves a computer, networked device or a network. Most cyber crimes are undertaken in order to generate profit for the people behind the attacks – the cybercriminals.
+
+The majority of cyber crimes are carried out against computers or devices such as printers and routers directly. Cybercriminals also use computers or networks to spread malware (software designed to damage or gain unauthorised access to a computer system), images and illegal information.
+
+Cyber crime can be carried out by individuals or small groups. However, recently there have been a significant number of attacks carried out by highly organised criminal groups. 
+
+These groups usually include skilled software developers and others with relevant expertise. One reason that cyber crime is difficult to stop is that cybercriminals are able to carry out attacks from anywhere in the world.
+
+=====================================================================
+
+*** Types of cyber crime ***
+
+There are many different types of cyber crime, and most cyber crimes are carried out with the expectation of making substantial amounts of money for the people carrying out the attacks.
+
+For legal purposes, there are three broad types of cyber crime:
+
+- Cyber dependent crimes: Where criminals use digital systems to attack digital targets. These include attacks on computer systems to disrupt IT infrastructure, and stealing data over a network using malware. The purpose of the data theft is usually to commit further crime.
+
+- Cyber enabled crimes: Which are ‘existing’ crimes, such as fraud, extortion and identity theft, that have been transformed by the use of the Internet. In many cases, the use of the Internet allows these crimes to be carried out on a very large scale.
+
+- Internet use: The use of the Internet to enable crimes such as drug dealing, people smuggling and other ‘real world’ types of crime.
+
+=====================================================================
+
+*** Test yourself ***
+
+Q1. What is the term used to describe malicious software used by cybercriminals to infect, damage or gain unauthorised access to a computer system?
+
+A1. Malware
+
+Q2.  Can you categorise the following examples of cyber crimes?
+
+A2. 
+	- Cyber dependent crimes -> data theft, attacks on computer systems, disrupt IT infrastructure
+	- Cyber enabled crimes -> fraud, extortion, identity theft
+	- Internet related crimes -> drug dealing, people smuggling
