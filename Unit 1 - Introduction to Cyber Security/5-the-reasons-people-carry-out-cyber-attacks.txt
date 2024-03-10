@@ -1,0 +1,66 @@
+=====================================================================
+Unit 1: Introduction to Cyber Security
+Lesson 5: The reasons people carry out cyber attacks
+=====================================================================
+
+We have already seen that almost any business or organisation can be a target for a cyber attack, so it follows that there are many reasons for these attacks. The most common reason is financial gain, but there may be a host of other motivations. 
+
+Attacks on different industries tend to have different motivations.
+
+=====================================================================
+
+*** Motivations for outsider/external attacks ***
+
+Cyber attacks against businesses are often deliberate and are usually motivated by financial gain. However, other motivations may include:
+
+- Making a social or political point – e.g. hacktivism.
+
+- Espionage – such as spying on competitors to gain unfair advantage.
+
+- Intellectual challenge – so-called ‘white hat’ hacking.
+
+Attacks on healthcare providers may be designed to collect medical and personal data that can then be sold on. Stolen medical information can sometimes also be used to gain unauthorised entry to some medical programmes or to obtain prescription drugs for personal use or to sell for profit.
+
+Attacks on food service, accommodation and retail establishments are most often done to collect customer payment information, such as credit card numbers and addresses, which can then be used to make unauthorised purchases and for identity theft. Similarly, attacks on financial services can glean sensitive banking and credit card information.
+
+Public administration bodies are often victims of data breaches where thieves try to steal confidential government records to sell to foreign entities. They may also be made by hackers who want to make a political statement.
+
+Hacktivists are another source of external threat. These people often want to make a political or social statement, or to demonstrate their expertise and earn ‘bragging rights’.
+
+=====================================================================
+
+*** Motivations for insider/internal attacks ***
+
+Many insider attacks are also carried out for financial gain. For example, around 26% of internal hackers are based in systems administration. These employees have access to sensitive data and information and they may sell this data on to external sources. Other internal attacks may be motivated by a desire for revenge or to seek retribution for a slight or because they feel undervalued by their employer.
+
+Technically proficient employees may use their systems access to open back doors into computer systems (a back door is any method that allows users or hackers to get around normal security measures to gain access to a computer system, network or software) or leave programmes on the network to steal information or wreak havoc. They may even sell access to these backdoors.
+
+However, the largest number of internal attackers are actually people who have accidentally and unknowingly downloaded malware or leaked information accidentally. Many of these errors take place because an organisation is using outdated software, has failed to install needed updates and patches, or hasn’t invested in raising awareness among its employees. Social engineering attacks are also common. In this case, the employee has unwittingly given out a password or other information and does not know they are part of an attack. Social engineering attacks, like phishing, are also common.
+
+Other insider attacks may be done for different types of personal gain. For example, in 2020, two former eBay employees pleaded guilty to a cyber stalking campaign against a Massachusetts couple whose online newsletter was seen as critical of the e-commerce company.
+
+Example 1:
+
+An office administrator who stole almost £600,000 from her employers in order to fund her online gambling addiction was jailed for three years at the Crown Court in Londonderry.
+
+Tracey Curran, 44, pleaded guilty to six charges of unlawfully taking the money from the Bank Of Ireland and American Express credit card accounts belonging to her employer.
+
+Source: https://www.belfasttelegraph.co.uk/news/northern-ireland/woman-who-stole-600k-from-employers-to-feed-gambling-addiction-jailed-for-three-years-38850876.html.
+
+Example 2:
+
+The 2013 breach of American retailer Target is an example of a breach caused by employees acting unknowingly. Someone at a partner company opened an email infected with malware and poor internal controls allowed criminals to then gain access to Target. 
+
+On top of this, many of Target’s own staff were using weak or even default passwords, and storing login credentials on servers where the hackers could access them. The company was also using outdated software with inadequate patching, creating more security holes.
+
+=====================================================================
+
+*** Test yourself ***
+
+Q1. Can you name the most common reason for a cyber attack?
+
+A1. financial gain/money
+
+Q2. What is the term used for a point of entry for a technically proficient threat actor to get around normal security measures to gain access to a computer system?
+
+A2. back door
