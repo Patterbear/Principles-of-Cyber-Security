@@ -1,0 +1,77 @@
+=====================================================================
+Unit 1: Introduction to Cyber Security
+Lesson 3: Who carries out cyber crime?
+=====================================================================
+
+*** Definition of a threat actor ***
+
+In cyber security, a threat actor is a broad term for any individual or group of individuals that attempts to conduct malicious activities against individuals or enterprises, whether intentionally or unintentionally.
+
+Threat actors can be internal or external to the organisation being targeted.
+
+Threat actors with the technical skills to target and breach security networks often fall into the category of hackers, but the term threat actor is broad and also includes security incidents initiated through negligence, mistake or social media.
+
+1. Individual:
+
+This can include both insider and outsider actors. Individual cybercriminals may be motivated by gain or revenge. Some are employees who may carry out cyber crime intentionally, or unintentially through negligence, accident or incompetence.
+
+2. Outside actors:
+
+Individuals acting alone, for either money or revenge. These are a much smaller threat than organised crime as they usually lack the resources for mounting wide-spread attacks.
+
+3. Inside actor:
+
+These are people who already have access to sensitive data or processes from their work. They may be acting out of desire for money or revenge, or they may simply be careless or negligent. Insiders are less likely to trigger red flags or to cause alerts until it is too late.
+
+4. Organised crime:
+
+These are often highly sophisticated organisations who are motivated by profit. They usually target data that has a high value on the dark web, such as banking information, and also engage in ransomware attacks. These organisations may be quite large and will invest in technology and automation to improve their reach and scope.
+
+5. Company:
+
+These may target other organisations, attempting to steal business secrets in order to gain a market advantage.
+
+6. Nation:
+
+Actors sponsored by nation-states tend to be sophisticated and well-funded. They may carry out large-scale attacks or advanced persistent threats – stealthy attacks whose purpose is to gain long-term access to sensitive data. They may be motivated by gain, but are more usually motivated by national security, gaining IP data, political espionage, or attempts to influence the political process.
+Hacktivist:
+
+Hacktivists are politically, socially, or ideologically motivated and target victims for publicity or to effect change, and often plan high profile operations.
+
+7. Script kiddie:
+
+These are actors who lack skills to write their own code, so they rely on scripts they have acquired from other sources. They may be motivated by peer competition, mischief or for gain, and their attacks are not very sophisticated, often being limited to defacing websites or launching denial-of-service attacks (DoS).These are attacks meant to shut down a machine. DoS attacks work by flooding the target with traffic, often from computers that have been ‘hijacked’ using malware.
+
+8. Hacker:
+
+A hacker is any skilled computer user that uses their technical knowledge to overcome a problem. While ‘hacker’ can refer to any computer programmer, the term is most often used to refer to someone who uses their technical knowledge to access ‘secure’ systems and networks.
+
+=====================================================================
+
+*** Did you know? ***
+
+According to the UK government’s Cyber Security Breaches Survey 2022, 39 percent of businesses experienced a breach in the previous year, with large organisations the most commonly breached.
+
+Major breaches in the last months of 2022 and first months of 2023 alone included:
+
+- A hack of the US online insurance marketplace for members of Congress and Washington, D.C., residents that compromised the personal identifying information of thousands of lawmakers, their families and employees.
+- A ransomware attack on one of Barcelona’ s main hospitals that and forced the cancellation of 150 non-urgent operations and up to 3,000 patient appointments.
+- The theft of more than £5 million in Bitcoin from the accounts of African fintech company, Flutterwave.
+- A data breach on RailYatri, a popular Indian train ticket booking platform, that exposed the personal information of more than 31 million customers.
+- An attack that crippled ticket sales and ticketing functions at the Philadelphia Orchestra.
+
+=====================================================================
+
+*** Test yourself ***
+
+Q1. Can you name the broad term for any individual or group of individuals that attempts to conduct malicious activities against individuals or enterprises, whether intentionally or unintentionally?
+
+A1. threat actor(s)
+
+Q2. Can you name one type of threat actor?
+
+A2. individual/outside actor/inside actor/organised crime/company/nation/hacktivist/script kiddie/hacker
+
+Q3. What does DoS stand for?
+
+A3. denial of service
