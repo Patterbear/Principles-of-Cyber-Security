@@ -1,0 +1,78 @@
+=====================================================================
+Unit 1: Introduction to Cyber Security
+Lesson 2: Motives behind cyber crime
+=====================================================================
+
+Cyber crime has increased greatly, partly because committing crimes online makes it easy for the criminals to hide their identity and location, which can be anywhere in the world that has an Internet connection. This makes it challenging for police and other law enforcement agencies to locate them, but to further complicate this, different countries have different laws and bringing cyber criminals to justice often involves cooperation between countries.
+
+The key motivations for cyber criminals are money and information. According to a Verizon Enterprise report, around 93% of attacks are motivated by reasons related to financial motivation and corporate or government espionage (spying). Another less frequent but broader set of motives is often categorised as ‘FIG’ (Fun, Ideology, and Grudges).
+
+=====================================================================
+
+*** Common motives for cyber crime ***
+
+1. Money:
+
+This can be the motive for many types of attacks and data theft. The cyber criminal will make money either by stealing from the victim directly, or by selling stolen data in underground marketplaces.
+
+2. Competition:
+
+Gaining access to a business competitor’s data can be very valuable. Many attacks are aimed at stealing IP (intellectual property) such as blueprints, designs for new technology or research. However, competitors also carry out attacks for blackmail, to gain the upper hand in a specific market or to create bad PR for a competitor. 
+
+Organisations that have intellectual property at the core of their business, such as pharmaceuticals, high tech manufacturing, mining or utility companies, are especially vulnerable to attacks from competitors.
+
+3. Political motivation:
+
+In recent years, cyber crime has also been used for political reasons. This may take the form of actions such as attempting to manipulate elections, inserting malware or ‘spyware’ (software that allows a user to gain information from another computer by transferring data secretly from their hard drive) into government systems or hacking the personal accounts of government members to learn information.
+
+4. Personal reasons:
+
+There are a wide range of personal reasons why people may attempt cyber crime. Some criminals just enjoy the challenge of finding and exploiting weaknesses in systems and software. Other people may do it for ideological reasons, for revenge or to expose sensitive information which they think is of interest to the public.
+
+=====================================================================
+
+*** Did you know? ***
+
+According to the UK government’s 2022 Cyber Security Breaches Survey, approximately 39% of organisations experience a breach each year. Phishing attacks are the most common, followed by other impersonating attacks and malware or viruses. On top of this, UK firms invest around 23.1% of their IT budgets in cyber security, with the average cost of a data breach in the UK around £4.24 million. And all of this is expensive. The National Federation of Independent Businesses reports that cybercrime caused more than £4 billion in damage to UK businesses from September 2021 to September 2023. 
+
+=====================================================================
+
+*** WannaCry virus attack (2017) ***
+
+The WannaCry ransomware attack was a global attack where users’ files were held hostage, and a Bitcoin ransom was demanded for their return. 
+
+Cyber criminals took advantage of a weakness in the Microsoft Windows operating system to gain entry to as many as 300,000 computers in 150 countries.
+
+Thousands of NHS hospitals and surgeries across the UK were affected. The attack on the NHS was stopped by a 22-year-old former hacker turned cybersecurity expert who managed to find the ‘kill switch’ in the code and slow down the attack. 
+
+The attack was estimated to have cost the NHS £92 million, with global costs from the attack at around £5 billion. 
+
+A patch that could have stopped the attack had been released by Microsoft about two months earlier, but many users never downloaded it.
+
+=====================================================================
+
+*** One billion user accounts stolen from Yahoo (2013) ***
+
+In one of the largest cases of data theft in history, Yahoo had information from all of its three billion user accounts stolen.
+
+Personal information including names, phone numbers, passwords and email addresses were taken from the Internet giant.
+
+Yahoo claimed at the time that no bank details were taken, and only released information about the breach in 2017.
+
+It was the second time Yahoo had suffered a major breach, after the accounts of nearly 500 million users were accessed in 2014.
+
+=====================================================================
+
+*** Test yourself ***
+
+Q1. What type of software is 'WannaCry'?
+
+A1. ransomware
+
+Q2. Which of the following are common motives for cyber crime?
+
+A2. stealing IP, blackmail, competition, political motivation, personal reasons, ideological reasons, money
+
+Q3. What does FIG stand for?
+
+A3. Fun, Ideology, and Grudges
