@@ -1,0 +1,25 @@
+=====================================================================
+Unit 1: Introduction to Cyber Security
+Lesson 4: External and insider threats
+=====================================================================
+
+Cyber threats may be internal or external. An external threat may be much trickier to identify as it comes from someone that does not have authorised access to the data and has no formal relationship to the company. These threats could be from someone who is actively trying to carry out a cyber attack on the company or it could have been triggered accidentally from someone who saw an opportunity, perhaps by finding or stealing a company computer or mobile phone. 
+
+Threats coming from outside the company always aim to cause disruption and damage. They are carried out for the purposes of stealing data, for financial gain, or to disrupt the operation of the company.
+
+
+Internal or insider threats are likely to come from someone who works at the organisation and has access to sensitive corporate data as part of their day-to-day duties. This could be someone working within the company, or who works for subcontractors, external IT support engineers or consultants. 
+
+Insiders have a much greater advantage in being able to carry out cyber attacks because they already have access.
+
+Recent cases highlight that many insider threats come from unhappy or disgruntled employees, such as someone who was informed they will be made redundant. 
+
+These people may not carry out the attacks themselves, but may pass on or sell security or other inside information to those who will carry out the attack.
+
+=====================================================================
+
+*** Test yourself ***
+
+Q1. Cyber threats originate from two types of location. Can you name the locations?
+
+A1. internal and external
