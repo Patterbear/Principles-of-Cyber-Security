@@ -1,0 +1,40 @@
+=====================================================================
+Unit 0: Online Induction
+Maths Initial Assessment
+=====================================================================
+
+Q1. Kevin's car needs a service at 30,000 miles. His car has done 23,650 miles. How many more miles can he drive his car before its service?
+
+A1. (b) 6350
+
+Q2. How many uniforms would you need to buy for 6 new healthcare staff, if each requires 1 uniform to wear, 1 uniform to keep in their locker and 2 spare uniforms?
+
+A2. (d) 24
+
+Q3. Ahmed and Samantha both saved money for a holiday. Ahmed saved £65 less than Samantha who had saved £820. Which sum would show how much Ahmed had saved?
+
+A3. (c) 820 - 65
+
+Q4. A member of the school's canteen staff is baking, what temperature have they set the oven at?
+
+A4. (c) 240 degrees
+
+Q5. Three men and seven women have been shortlisted for the post of HR Manager. What is the probability of a man getting the job?
+
+A5. (b) 30%
+
+Q6. Two factory workers win the in-house raffle with a prize of £240. Monika and Robert share the prize money in a ratio of 3:5. How much does Monika get?
+
+A6. (d) £90
+
+Q7.  7. An administrator is asked to file papers in a box which has the following dimensions: height 15cm, width 30cm and depth 20cm. Calculate the volume of the box. Give your answer in cm.
+
+A7. (b) 9000cm³
+
+Q8. The grid below has missing information, identify the correct information.
+
+A8. (b) 0.10
+
+Q9. If a jacket's original retail price is £75, but it has been reduced in a sale by 20%, how much is the jacket now?
+
+A9. (c) £60
