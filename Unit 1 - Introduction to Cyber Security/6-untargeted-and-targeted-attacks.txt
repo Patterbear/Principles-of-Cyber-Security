@@ -1,0 +1,70 @@
+=====================================================================
+Unit 1: Introduction to Cyber Security
+Lesson 6: Untargeted and targeted attacks
+=====================================================================
+
+*** Untargeted cyber attacks ***
+
+In untargeted attacks, attackers indiscriminately target as many devices, services or users as possible. They are not targeting a specific individual or business. To do this, attackers use techniques that take advantage of the open nature of the Internet. 
+
+This type of attack includes techniques like:
+
+- Phishing – sending emails to random people asking for personal information (such as bank details) or encouraging people to visit a fake website.
+
+- Water holing – setting up a fake website or redirecting people from a real website to order to collect personal information.
+
+- Ransomware – a type of malware that encrypts a victim’s files to make them inaccessible. The attacker then demands a ransom from the victim, usually to be paid in crypto-currency, to restore access to the data upon payment.
+
+- Scanning – attacking large parts of the Internet at random.
+
+=====================================================================
+
+*** Targeted cyber attacks ***
+
+In a targeted attack, a particular industry, organisation or person is singled out for attack. The attackers might spend months laying the groundwork for the attack. This type of attack is often more damaging than an untargeted attack because it has been specifically directed at a particular target. 
+
+Targeted attacks may include:
+
+- Spear-phishing – sending emails to particular individuals which contain an attachment with malicious software, or a link that downloads malware.
+
+- Deploying a botnet – a botnet connects together a number of Internet-connected devices, each of which is running one or more bots – a type of malware, without the owners’ knowledge. Botnets can be used to steal data, send spam, and allow the attacker to access the device and its connection.
+
+- Subverting the supply chain – equipment or software being delivered to the organisation is implanted with malware.
+
+=====================================================================
+
+*** Differences between targeted and untargeted attacks ***
+
+Untargeted attacks are far more common than targeted attacks, for two primary reasons. First, untargeted attacks are easier to carry out. Instead of trying to find out how to access a specific system, hackers simply create a generic email with malicious content such as an attachment or link. They will then send this out to every email address they have access to. 
+
+Depending on the form of malware that was used, the goal of the attack might be extortion from ransomware, installing key loggers to track user credentials, or the installation of spyware. Since they are not targeting a specific person or audience, the content in the email is kept very vague. For instance, it may be a fake tracking link for a recent ‘purchase’.
+
+=====================================================================
+
+*** Did you know? ***
+
+According to the Crime Survey for England and Wales, there were 4.5 million reported incidents of fraud where individuals were targeted for credit card, identity and cyber fraud in 2020-2022.
+
+The report said that, “Large increases were seen in “advance fee fraud” and “consumer and retail fraud”. This may indicate fraudsters taking advantage of behavioural changes related to the coronavirus (COVID-19) pandemic, such as increased online shopping. For example, advance fee fraud offences included scams where victims transferred funds to fraudsters for postal deliveries.”
+
+Source: https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/bulletins/crimeinenglandandwales/yearendingmarch2022#fraud
+
+=====================================================================
+
+*** Did you know? ***
+
+One type of cyber fraud common at Christmas is for criminals to pose as well-known delivery companies, and send emails saying they have not been able to deliver goods and asking for a fee to rearrange delivery. The email will contain a link to a fake website that will ask unsuspecting victims to enter their bank details or other personal information.
+
+This type of scam takes advantage of the fact that people receive a lot of packages and gifts at Christmas, so they often enter the information without really thinking about it.
+
+=====================================================================
+
+*** Test yourself ***
+
+Q1. Can you name one type of targeted attack?
+
+A1. spear-phishing, deploying a botnet, subverting the supply chain
+
+Q2. Can you name one type of untargeted attack?
+
+A2. phishing, water holing, ransomware, scanning
