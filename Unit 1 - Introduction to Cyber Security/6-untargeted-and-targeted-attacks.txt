@@ -68,3 +68,18 @@ A1. spear-phishing, deploying a botnet, subverting the supply chain
 Q2. Can you name one type of untargeted attack?
 
 A2. phishing, water holing, ransomware, scanning
+
+Q3. Can you match the untargeted attack terms to their descriptions?
+
+A3.
+	- Phishing -> sending emails to random people asking for personal information.
+	- Water holing -> setting up a fake website/redirecting people from a real website to collect personal data.
+	- Ransomware -> a type of malware that encrypts a victim’s files to make them inaccessible.
+	- Scanning -> attacking large parts of the Internet at random.
+
+Q4. Can you match the targeted attack terms to their descriptions?
+
+A4.
+	- Spear-phishing -> sending emails to individuals which contain an attachment with malicious software.
+	- Deploying a botnet -> this connects together a number of Internet-connected devices.
+	- Subverting the supply chain -> equipment or software being delivered to the organisation is implanted with malware.
