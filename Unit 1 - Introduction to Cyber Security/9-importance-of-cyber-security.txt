@@ -1,0 +1,86 @@
+=====================================================================
+Unit 1: Introduction to Cyber Security
+Lesson 9: Importance of cyber security
+=====================================================================
+
+According to some estimates, by 2025, cyber crime will cost the world more than $10.5 trillion each year. This will have a significant impact on jobs, research and development, economic growth and investment.
+
+As cyber crime increases, the costs to prevent it also increase. The damage is not limited to finances. There is also a high cost to intangible assets like brand reputation and customer good will.
+
+=====================================================================
+
+*** What is cyber security? ***
+
+Cyber security is the practice of securing devices, networks, systems and any other digital infrastructure from malicious attacks. The best strategy, whether for individuals, companies or governments, is to have in place a strong security system that includes multiple layers of protection. 
+
+This could include firewalls, antivirus software, antispyware software and password management tools.
+
+=====================================================================
+
+*** The importance of cyber security for individuals ***
+
+On an individual level, poor cyber security can lead to financial loss, identity theft and even personal safety risks. The best ways to prevent this are to exercise caution, use anti-virus software on all devices, always use strong passwords and never open or respond to suspicious emails.
+
+Mobile phones are at serious risk of cyber attacks. To safeguard phones, users can install tools that lock the phone or enact multi-factor passwords in the event of a loss. 
+
+To combat mobile apps that do not protect against viruses or that leak personal information, it is important to install cyber security tools that will alert or block suspicious activity.
+
+Using public Wi-Fi is another risk for individuals. To secure against man-in-the-middle attacks, where communication is intercepted by a third party, cyber security experts suggest using the most up-to-date software and avoiding password-protected sites that contain personal information. 
+
+One way to guard against a cyber attack on public Wi-Fi is to use a virtual private network (VPN). These create a secure network, where all data sent over a Wi-Fi connection is encrypted.
+
+=====================================================================
+
+*** The importance of cyber security for businesses ***
+
+Most businesses rely on computer systems to operate. A breach of their systems could result in substantial financial, as well as reputational, loss. 
+
+In addition, General Data Protection Regulation (GDPR) and other data protection laws mean that organisations can suffer from regulatory fines or sanctions as a result of cyber crimes. This is particularly true for international businesses, who must make sure they meet the laws in all of the countries in which they operate.
+
+Example:
+
+In 2020, British Airways was fined $26 million by the ICO for an issue that occurred in 2018, where the airline’s systems were breached, resulting in hackers getting their hands on names, addresses and payment card details of 400,000 BA customers. 
+
+According to the ICO, BA had failed to put in place sufficient security measures to protect their systems, networks and data. In fact, at the time of the breach, BA were not even using multi-factor authentication.
+
+It is vitally important that businesses invest in training, tools, and technology to reduce the risk of cyber crime. These should include tools that monitor third-party risk and vendor risk, and continuously scan for data exposure and leaks. 
+
+All organisations should also have robust policies and procedures in place, as well as training programmes, so that all staff know how to guard against data leaks and common social engineering scams.
+
+- Multi-organisational businesses – these include organisations like the NHS. These need to ensure that cyber security is applied uniformly across the entire enterprise – any gaps could allow threat actors to gain access to the entire system.
+
+- Charities – organisations like charities, who may have overlooked this type of threat in the past, are now finding cyber security of vital importance. In 2022, 30% of charities experienced cybersecurity breaches.
+
+- International organisations – cyber security is vital for international organisations, which face all of the threats mentioned here, but also need to make sure that they co-ordinate their cyber security with the parts of the organisation in other countries. Some threats, technology and laws may be particular to a specific country, so international organisations may also need to hire experts in each country where they operate.
+
+=====================================================================
+
+*** The importance of cyber security for nations ***
+
+Here, the risk is often both more nebulous and more high stake. Concrete risks include attacks on infrastructure and defence systems, and theft of data which can lead to financial loss. 
+
+Less concrete but equally important risks are those which impact on public safety, governmental reputation, the overall economy and international relations. 
+
+To combat these risks, all countries should develop a robust national cyber security strategy which should include:
+
+- a national cyber security agency
+
+- a national Critical Infrastructure Protection program
+
+- a national incident response and recovery plan
+
+- clear laws relating to cyber crimes
+
+- cyber security education and training.
+
+=====================================================================
+
+*** Test yourself ***
+
+Q1. Can you name one layer of protection against cyber crime?
+
+A1. firewall, antivirus software, antispyware software, password management tools, multi factor authentication
+
+Q2. What does VPN stand for?
+
+A2. virtual private network
