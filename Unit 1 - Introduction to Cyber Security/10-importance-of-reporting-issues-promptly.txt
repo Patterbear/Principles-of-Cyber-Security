@@ -1,0 +1,64 @@
+=====================================================================
+Unit 1: Introduction to Cyber Security
+Lesson 10: Importance of reporting issues promptly
+=====================================================================
+
+*** For individuals ***
+
+Data breaches or cyber attacks should be reported immediately, so that relevant organisations, such as banks, can act quickly to stop the theft and hopefully return the money. In fact, any delay in reporting a financial loss from a data breach will often result in the permanent loss of money.
+
+=====================================================================
+
+*** For businesses and government employees ***
+
+Reporting data breaches is a legal requirement. 
+
+The GDPR introduced a duty on all organisations to report certain types of data breaches to the relevant supervisory authority. Failing to do so can result in heavy fines and penalties, and an investigation by the Information Commissioner’s Office (ICO).
+
+=====================================================================
+
+Although the EU GDPR no longer applies to UK residents’ personal data, the Data Protection Act 2018 enacted the EU GDPR’s requirements in UK law, meaning that UK organisations must still comply with its requirements.
+
+The law requires all breaches of personal data, such as customer information, whether they are accidental or the result of cyber crime, to be reported within 72 hours of being made aware of the breach. However, not all breaches need to be reported, only those which “pose a risk to the rights and freedoms of natural living persons”. This usually includes the possibility of affected individuals facing economic or social damage (such as discrimination), reputational damage or financial losses.
+
+Aside from the legal requirements, notification can help others avoid similar risks, and may help the police to track down the criminals. Notification also helps other organisations prepare for similar attacks. Criminals often reuse successful techniques, whether it’s a particular scam method or a network vulnerability, and publicly announcing this threat allows organisations to address the issue.
+
+Example 1:
+
+Personal data breaches can include:
+
+- access by an unauthorised third party
+
+- deliberate or accidental action (or inaction) by a controller or processor
+
+- sending personal data to an incorrect recipient
+
+- computing devices containing personal data being lost or stolen
+
+- alteration of personal data without permission
+
+- loss of availability of personal data.
+
+Example 2:
+
+The ICO would need to be notified of the theft of any customer data because the data could be used to commit identity fraud or theft from individuals.
+
+Example 3:
+
+A hospital suffers a breach that results in an accidental disclosure of patient records. There is likely to be a significant impact on the affected individuals because of the sensitivity of the data and their confidential medical details becoming known to others. This is likely to result in a high risk to their rights and freedoms, so the ICO would need to be informed about the breach.
+
+=====================================================================
+
+*** Test yourself ***
+
+Q1. Is reporting data breaches a legal requirement?
+
+A1. Yes
+
+Q2. What does ICO stand for?
+
+A2. Information Commissioner’s Office
+
+Q3. The EU GDPR no longer applies to UK residents. What is the name of the UK law governing the reporting of data breaches?
+
+A3. Data Protection Act (2018)
