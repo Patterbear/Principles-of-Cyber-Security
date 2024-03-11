@@ -7,7 +7,6 @@ Cyber threats may be internal or external. An external threat may be much tricki
 
 Threats coming from outside the company always aim to cause disruption and damage. They are carried out for the purposes of stealing data, for financial gain, or to disrupt the operation of the company.
 
-
 Internal or insider threats are likely to come from someone who works at the organisation and has access to sensitive corporate data as part of their day-to-day duties. This could be someone working within the company, or who works for subcontractors, external IT support engineers or consultants. 
 
 Insiders have a much greater advantage in being able to carry out cyber attacks because they already have access.
