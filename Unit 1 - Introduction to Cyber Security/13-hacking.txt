@@ -1,0 +1,55 @@
+=====================================================================
+Unit 1: Introduction to Cyber Security
+Lesson 13: Hacking
+=====================================================================
+
+*** What is a hacker? ***
+
+The basic definition of a hacker is someone who uses a computer system to gain illegal access to another system. There are different types of hacker, and they are not all interested in the same thing.
+
+=====================================================================
+
+*** Three types of hackers ***
+
+Black hat:
+
+A black hat hacker is what people usually think of as the traditional ‘hacker’. They have malicious intent and are looking to break into and exploit vulnerable systems. Most hacks that you see in the news are a result of black hat hackers.
+
+White hat:
+
+A white hat hacker is what is known as an ethical hacker. They act to protect businesses and support them against black hat hackers. They are often hired by companies and organisations, and may help install effective protections, find vulnerabilities and provide solutions for them. They typically have authorisation to do what they are doing and there is even a qualification for them – Certified Ethical Hacker – from the EC Council.
+
+Grey hat:
+
+A grey hat hacker lives somewhere in the middle. Generally speaking, they are breaking laws and violating ethics, but their intent isn’t usually malicious. Usually, grey hat hackers will not exploit the vulnerabilities they find. However, this type of hacking is still considered illegal because the hacker did not receive permission from the owner prior to attempting to attack the system.
+
+Grey hat hacking is sometimes done in the name of public interest, although quite commonly, if a grey hat identifies a flaw and points it out to a company, the company will want to work with the hacker to help fix the breach. Companies will often reward them just like they would a white hat.
+
+However, the difference between grey hat hackers and white hat hackers is that, if the company decides to ignore a grey hat hacker, the hacker is not bound by ethical hacking rules or an employment contract. They could decide instead to exploit the flaw themselves or sell and share the knowledge online for other hackers to take advantage of.
+
+=====================================================================
+
+*** Did you know? ***
+
+A white hat hacker
+
+Charlie Miller is considered one of the best white hat hackers in the world.
+
+He has a PhD in Mathematics and has worked as a hacker for the National Security Agency. He has also won the annual Pwn2Own hacking contest – the ‘Super Bowl of hacking’ – four times. 
+
+In the 2009 contest, he broke into a Macintosh in less than 10 seconds. He hacked the first Android phone on the day it was released, and was the first person to hack the iPhone remotely by sending an SMS message. His demonstration of how he could remotely take over any Fiat Chrysler to control the radio, brakes, transmission and steering led to a recall of 1.4 million vehicles.
+
+=====================================================================
+
+*** Test yourself ***
+
+Q1. Can you name one type of hacker?
+
+A1. black hat/white hat/grey hat
+
+Q2. Can you match the type of hacker with its brief description?
+
+A2.
+	- Black hat -> is what people usually think of as the traditional ‘hacker’.
+	- White hat -> is an ethical hacker.
+	- Grey hat -> is breaking laws and violating ethics, but their intent isn’t malicious.
