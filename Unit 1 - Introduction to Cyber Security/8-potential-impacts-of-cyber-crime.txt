@@ -1,0 +1,44 @@
+=====================================================================
+Unit 1: Introduction to Cyber Security
+Lesson 8: Potential impacts of cyber crime
+=====================================================================
+
+According to some estimates, by 2025, cyber crime will cost the world more than $10.5 trillion each year. This will have a significant impact on jobs, research and development, economic growth and investment.
+
+As cyber crime increases, the costs to prevent it also increase. The damage is not limited to finances. There is also a high cost to intangible assets like brand reputation and customer good will.
+
+=====================================================================
+
+*** How cyber crime impacts individuals, businesses and nations ***
+
+- Individuals:
+
+Individuals can be severely impacted by cyber crime, not only financially, as attacks may clear out bank accounts and impact credit ratings, but also psychologically. Individuals can end up feeling depressed, embarrassed, shamed or confused following the attack. 
+
+Individuals may not understand why they have been attacked, and embarrassed that they have let something like this happen to them. Recovering from an attack may also be time consuming and involve setting up new accounts or speaking to a wide range of authorities.
+
+- Organisations:
+
+There are obvious financial implications faced by any organisation which has been attacked, potentially including a fall in stock price, regulatory fines and reduced profits. Organisations may lose key data or research to competitors resulting in huge costs and a loss of competitive advantage. Reputational impacts can include a loss of key staff, damaged relationships with customers and intense media scrutiny. Customers may not feel safe shopping with the organisation and so stop visiting their websites.
+
+Companies now have to rethink how they collect and store information to ensure that sensitive information isn’t vulnerable. Many organisations have stopped storing customers’ financial and personal information, such as credit card numbers, home addresses and birth dates.
+
+Cyber crime is also a rapidly growing threat to the charity sector. In the next two years, one in every six large charities will suffer from cyber crime. Many other charities will be the victim of cyber attacks without knowing about it. A charity is four times more likely to discover cyber crime through internal IT controls or by staff raising concerns than all other external sources combined.
+
+Some larger charities believe they experience several thousand attempted cyber attacks every week.
+
+- Multi-organisational:
+
+A multi-organisation enterprise is where different organisations work together collaboratively to deliver complex products or service systems. For example, the NHS is made up of a number of different organisations (GP surgeries, hospitals, clinics, etc.) that all work together to deliver health care.
+
+For large organisations such as the NHS, their size makes them a high profile target. Digital Health Intelligence has reported that more than 50% of NHS trusts now have electronic patient record systems which hold vast amounts of sensitive personal data.
+
+What is the impact for organisations such as the NHS? It is predominantly financial loss, for example, extortion using ransomware or theft of data such as staff or user bank account details.
+
+An international organisation is one that has branches, or conducts business, in different countries. International organisations face an even greater risk of cyberattack, as it may be necessary to work across borders, or to co-ordinate many different parts of the organisation, in order to fight the attacks. International organisations may also need to adhere to different types of laws, so they may also be at risk of larger fines and legal consequences if there is a breach.
+
+- Nations:
+
+As we have seen, nations are facing a huge increase in cyber espionage, including damage to infrastructure and key services. There is also evidence in some places of election tampering and other types of large-scale social engineering, reducing trust in governments and making it harder for them to act. 
+
+State secrets, personal data on citizens, blueprints to military technology and political manipulation are all key areas in which cyber criminals are attempting to gain access. The impact of cyber attacks on states can be catastrophic, and cyber criminals have attempted to gain access to nuclear power plants, and vital facilities such as dams and electricity supplies.
