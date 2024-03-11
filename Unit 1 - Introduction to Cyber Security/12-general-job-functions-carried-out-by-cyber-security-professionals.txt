@@ -1,0 +1,28 @@
+=====================================================================
+Unit 1: Introduction to Cyber Security
+Lesson 12: General job functions carried out by cyber security professionals
+=====================================================================
+
+Cyber security professionals have a wide range of responsibilities, but their main role is to protect electronic data from being compromised. As a cyber security professional, you can expect to safeguard an organisation’s files and network, install firewalls, create security plans and monitor activity.
+
+=====================================================================
+
+*** Responsibilities of the cyber security professional ***
+
+New security threats pop up all the time, and IT security professionals need to stay up to date with the latest tactics employed by hackers. In addition to the high-level responsibilities already mentioned, some specific duties include:
+
+- Set and implement user access controls and identity access management systems.
+
+- Monitor network and application performance to identify any irregular activity.
+
+- Perform regular audits to ensure security practices are compliant with government regulations.
+
+- Use endpoint detection and prevention tools to thwart malicious hacks.
+
+- Set up patch management systems that update applications automatically.
+
+- Implement comprehensive vulnerability management systems across all assets, both on-premises and in the cloud.
+
+- Work with IT teams to set up a shared disaster recovery/business continuity plan.
+
+- Work with HR and/or team leads to educate employees on how to identify suspicious activity.
