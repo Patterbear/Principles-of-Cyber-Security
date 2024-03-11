@@ -1,0 +1,99 @@
+=====================================================================
+Unit 1: Introduction to Cyber Security
+Lesson 11: The role of key organisations in the cyber security industry
+=====================================================================
+
+*** NCSC (National Cyber Security Centre) ***
+
+The role of the NCSC is to help to make the UK a safe place to live and work online. Launched in October 2016, the NCSC is headquartered in London and brings together expertise from other UK and European organisations. It carries out its main role by supporting critical organisations in the wider public sector, industry, and business, as well as the general public.
+
+More specifically, the NCSC:
+
+- Understands cyber security, and distils this knowledge into practical guidance that they make available to all.
+
+- Responds to cyber security incidents to reduce the harm they cause to organisations and the wider UK.
+
+- Uses industry and academic expertise to support and grow the UK’s cyber security capability.
+
+- Reduces risks to the UK by securing public and private sector networks.
+
+=====================================================================
+
+*** GCHQ (Government Communications Headquarters) ***
+
+The Government Communications Headquarters, better known as GCHQ, is a world leading intelligence, cyber and security agency with a mission to keep the UK safe. The agency employs highly skilled people who use cutting-edge technology, technical skills and wide-ranging partnerships to identify, analyse and disrupt threats. The priorities of GCHQ are set by the UK’s National Security Strategy and the decisions of the National Security Council, chaired by the Prime Minister, as well as the Joint Intelligence Committee.
+
+The three key mission areas of GCHQ are:
+
+- Counter terrorism – Stopping terrorist attacks in the UK and against our interests overseas.
+
+- Cyber security – Making the UK the safest place to live and do business online.
+
+- Strategic advantage – Managing the threats from hostile states, promoting the UK’s prosperity and shaping the international environment.
+
+=====================================================================
+
+*** ICO (Information Commissioner’s Office) ***
+
+The ICO is an independent body established to uphold information rights.
+
+The role of the ICO is to uphold information rights in the public interest. More specifically, the agency’s role is “to ensure that personal information is kept secure and safe.”
+
+The ICO is responsible for ensuring organisations follow the requirements of the following three pieces of legislation. We will look at these in more detail later in the online course.
+
+- Data Protection Act (2018)
+
+- General Data Protection Regulation
+
+- Freedom of Information Act (2000).
+
+=====================================================================
+
+*** Scotland ***
+
+Scotland has its own Information Commissioner. The Scottish Information Commissioner and the UK Information Commissioner’s Office (ICO) have separate roles and responsibilities.
+
+In general, the Scottish Information Commissioner is responsible for the freedom of information compliance of all public authorities in Scotland, while the ICO is responsible for Data Protection rights for the whole of the UK, including Scotland.
+
+The ICO is also responsible for freedom of information compliance for public authorities in England, Wales, and Northern Ireland, and for any agencies that operate in both Scotland and another part of the UK. 
+
+The ICO also has regulatory power under the Freedom of Information Act for UK public authorities based in Scotland. 
+
+These include:
+
+- BBC Scotland (in relation to its public functions)
+
+- The Northern Lighthouse Board.
+
+=====================================================================
+
+Example of action taken by the ICO:
+
+In 2018, the ICO fined ride sharing company Uber £385,000 for failing to protect customers’ personal information during a cyber attack. 
+
+According to an ICO press release, “A series of avoidable data security flaws allowed the personal details of around 2.7 million UK customers to be accessed and downloaded by attackers from a cloud-based storage system operated by Uber’s US parent company. This included full names, email addresses and phone numbers. 
+
+The records of almost 82,000 drivers based in the UK – which included details of journeys made and how much they were paid – were also taken during the incident, in October and November 2016. 
+
+The ICO investigation found ‘credential stuffing’, a process by which compromised username and password pairs are injected into websites until they are matched to an existing account, was used to gain access to Uber’s data storage. 
+
+However, the customers and drivers affected were not told about the incident for more than a year. Instead, Uber paid the attackers responsible $100,000 to destroy the data they had downloaded.”
+
+=====================================================================
+
+*** Test yourself ***
+
+Q1. What does NCSC stand for?
+
+A1. National Cyber Security Centre
+
+Q2. What does GCHQ stand for?
+
+A2. Government Communications Headquarters
+
+Q3. Can you match GCHQs three key mission areas to their brief descriptions?
+
+A3. 
+	- Counter terrorism -> stopping terrorist attacks in the UK and against our interests overseas.
+	- Cyber security -> making the UK the safest place to live and do business online.
+	- Strategic advantage -> managing the threats from hostile states and promoting the UK’s prosperity.
