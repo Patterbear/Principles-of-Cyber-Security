@@ -1,0 +1,32 @@
+=====================================================================
+Unit 1: Introduction to Cyber Security
+Lesson 15: Summary
+=====================================================================
+
+*** Summary ***
+
+In this section, we have learned about:
+
+- motivations for cyber crime
+
+- different types of threat actors
+
+- external and internal threats 
+
+- targeted and untargeted attacks
+
+- cyber crime vulnerabilities of individuals, businesses, and nations
+
+- the impact and importance of cyber crimes on individuals, businesses, and nations
+
+- key organisations and job functions in cyber security
+
+- what hacking is, and different types of hackers
+
+- some of the key skills required for a cyber security professional.
+
+=====================================================================
+
+*** Well done! ***
+
+You have now completed this unit and can attempt your assessment.

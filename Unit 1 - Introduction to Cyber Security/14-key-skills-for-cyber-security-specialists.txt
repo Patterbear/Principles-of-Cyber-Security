@@ -1,0 +1,28 @@
+=====================================================================
+Unit 1: Introduction to Cyber Security
+Lesson 14: Key skills for cyber security specialists
+=====================================================================
+
+The key skills for cyber security specialists are:
+
+- Strong IT and digital skills and knowledge of hardware, software and networking systems – the exact systems used will vary from employer to employer, but you should have a good basic knowledge that you can build on.
+
+- Communication – being able to communicate what issues you have found and how to fix them, in a way that anyone can understand, is very important in any positions.
+
+- Analytical skills – cyber security requires the ability to think through a problem and work out solutions in a logical manner.
+
+- Team working – many issues will be too large for one person to manage, so it is important that you are able to work effectively in a team, and that you can not only get along with others in the team, but can help others and be willing to learn.
+
+- Project management – cyber security often involves organising large projects, and being able to create a plan to tackle these effectively and in a timely manner is a vital skill.
+
+- Problem solving – cyber security is all about finding problems and then working out how to solve them. This requires the ability to think logically, and also the mindset of not wanting to give up until the problem is solved.
+
+With the pace of development in IT security, you will also need ongoing training and certification in new skills. Cyber security professionals need to continue learning new technology skills to be able to resolve new security issues.
+
+=====================================================================
+
+*** Test yourself ***
+
+Q1. Can name one of the key skills that cyber security specialists require?
+
+A1. strong IT and digital skills/communication/analytical skills/team working/project management/problem solving
