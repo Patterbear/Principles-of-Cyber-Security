@@ -1,0 +1,10 @@
+=====================================================================
+Unit 2: Understand Terminology used in Cyber Security
+Lesson 0: Introduction and learning objectives
+=====================================================================
+
+In this section, you will gain an understanding of basic cyber security terminology and be able to define certain common terms in relation to cyber security. 
+
+You will be able to describe the differences between LAN and WAN and understand how terms like vulnerable, attack, protection and risk are applied to cyber security. 
+
+Finally, you will be able to describe organisational strategies in relation to cyber security.
