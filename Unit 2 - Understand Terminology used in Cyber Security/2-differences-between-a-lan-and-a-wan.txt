@@ -1,0 +1,32 @@
+=====================================================================
+Unit 2: Understand Terminology used in Cyber Security
+Lesson 2: Differences between a LAN and a WAN
+=====================================================================
+
+The main difference between a LAN and a WAN is that a LAN connects local devices to each other, while a WAN connects LANs to each other, usually across multiple locations spread over large distances. A WAN may be limited to one corporation or organisation, or it may be accessible to the public, like the Internet. 
+
+A LAN is used because:
+- Computer resources like hard-disks, DVD-ROM, and printers can share local area networks which reduces the cost of hardware purchases.
+- You can use the same software over the entire network instead of purchasing the licensed software for each client in the network.
+- Data of all network users can be stored on a single server hard disk.
+- It is easy to transfer data and messages over networked computers.
+- Managing data from one location improves security.
+- LAN users can share a single Internet connection.
+
+Drawbacks to using a LAN:
+- The LAN administrator can check the data files of every LAN user, which reduces privacy.
+- A LAN network can reduce costs by sharing computer resources. However, the initial cost of installing Local Area Networks may be high.
+- Unauthorised users can access critical data of the company in case LAN admin is not able to secure a centralised data repository.
+- A LAN needs constant administration as there may be issues related to software setup and hardware failures.
+
+A WAN is used because:
+- It covers a larger geographical area, which helps facilities located far apart to communicate more easily.
+- It can include devices like mobile phones, laptops, tablets, computers, gaming consoles, etc.
+- It allows software and resources to be shared by connecting with various workstations.
+- Information and files can be shared over a larger area.
+
+Drawbacks to using a WAN:
+- The initial set up cost of a WAN network is high.
+- It can be difficult or expensive to maintain a WAN network as you need skilled technicians and network administrators.
+- It can take more time to resolve issues because of the involvement of different types of technologies.
+- It offers lower security compared to other types of networks.
