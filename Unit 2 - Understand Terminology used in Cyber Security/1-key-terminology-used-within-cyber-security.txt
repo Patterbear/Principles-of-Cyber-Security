@@ -1,0 +1,90 @@
+=====================================================================
+Unit 2: Understand Terminology used in Cyber Security
+Lesson 1: Key terminology used within cyber security
+=====================================================================
+
+- Hardware:
+
+Hardware refers to the physical parts of a computer, server and related devices. Internal hardware can include motherboards, hard drives, CPU (central processing unit), power supply, GPU (graphics processing unit) and random access memory (RAM). 
+
+External hardware can include monitors, keyboards, camera, touchpad, mice, printers, and scanners. 
+
+Internal hardware is often referred to as components, while external hardware devices are referred to as peripherals. Together, they are all computer hardware.
+
+- Software:
+
+Software is the instructions that tell a computer what to do. Software includes the entire set of programs, procedures and routines associated with the operation of a computer or network.
+
+There are two main types of software – system software and application software. System software includes the operating system and controls a computer’s internal functioning, as well as peripherals like monitors, printers and storage devices.
+
+Application software tells the computer to execute commands and includes programs that process data, such as word processors, spreadsheets, database management, inventory and payroll programs.
+
+Network software is used to coordinate communication between the computers linked in a network.
+
+Application software may be stored in an internal or external memory device, such as a hard drive. When the program is in use, the computer reads it from the storage device and temporarily places the instructions in random access memory (RAM). This is called ‘running’ or ‘executing’ a program. System software that is permanently stored in the computer’s memory using read-only memory (ROM) technology is called firmware, or ‘hard software’.
+
+- Data management:
+
+In cyber security, data management refers to the process of protecting data from unauthorised access and data corruption. Managing data securely includes three components: confidentiality, integrity and availability.
+
+Confidentiality is about privacy and ensuring information is only accessible to those with a proven reason to see it.
+
+Integrity is about making sure that information stored in a database is consistent and un-modified. Systems need to be designed to reduce the chance of human error when information is input and managed, and to make sure that the flow of information does not result in loss or alteration.
+
+Availability is about information being available when it’s needed. System design must include appropriate access controls and checks so that the information in the system has consistency and accuracy, can be trusted as correct and can be relied on when providing information to the user.
+
+=====================================================================
+
+*** Networking in cyber security ***
+
+A computer network is when two or more computers or virtual resources (such as the cloud) are connected to each other in order to share resources (such as printers), exchange files, or allow electronic communication. Computers may be networked together physically, using cables, or may be connected wirelessly. 
+
+Three common types of networks are:
+
+- A Local Area Network (LAN) is a private network that connects computers and devices within a small area like a home, an office or a building. LANs enable a number of computers to share a variety of resources like hardware (e.g. printers, scanners, network storage devices), software (e.g. application programs) and data.
+
+- A Metropolitan Area Network (MAN) is a computer network that connects computers within a metropolitan area; this could be a single large city, multiple cities and towns, or over a large area with multiple buildings. A MAN is larger than a local area network (LAN) but smaller than a wide area network (WAN).
+
+- A Wide Area Network (WAN) is a network that exists over a large geographical area, and connects different smaller networks, including local area networks (LANs) and metro area networks (MANs). It allows computers and users in one location to communicate with computers and users in other locations. A WAN is essentially a network of networks. The Internet is an example of a WAN.
+
+=====================================================================
+
+*** Did you know? ***
+
+In the early days of networking, the first webcam was deployed at a Cambridge University computer lab. Its sole purpose was to monitor a particular coffee maker so that lab users could avoid wasted trips to an empty coffee pot.
+
+=====================================================================
+
+*** Test yourself ***
+
+Q1. Can you match the collective term to its common group of components?
+
+A1.
+	- Internal hardware -> this includes motherboards, hard drives, CPU, power supply, GPU and RAM.
+	- External hardware -> this includes monitors, keyboards, camera, touchpad, mice, printers, and scanners.
+	- Software -> is the instructions that tell a computer what to do.
+
+Q2. Can you name one of the two main types of software?
+
+A2. system/application
+
+Q3. Can you match the two main types of software with their brief descriptions?
+
+A3.
+	- System software -> includes the operating system and controls a computer’s internal functioning etc.
+	- Application software -> tells the computer to execute commands and includes programs that process data etc.
+
+Q4. What does RAM stand for?
+
+A4. random access memory
+
+Q5. What does ROM stand for?
+
+A5. read-only memory
+
+Q6. Can you match the three common types of networks with their brief descriptions?
+
+A6.
+	- A Local Area Network (LAN) -> is a private network that connects computers and devices within a small area like a home.
+	- A Metropolitan Area Network (MAN) -> is a computer network that connects computers within an area the size of a city.
+	- A Wide Area Network (WAN) -> is a network that exists over a large geographical area.
