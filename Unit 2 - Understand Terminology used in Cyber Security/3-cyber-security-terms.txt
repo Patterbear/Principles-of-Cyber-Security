@@ -1,0 +1,92 @@
+=====================================================================
+Unit 2: Understand Terminology used in Cyber Security
+Lesson 3: Cyber security terms
+=====================================================================
+
+- Vulnerability: A vulnerability is a flaw or weakness in a system or network that could be exploited by a threat actor to cause damage, or allow an attacker to manipulate the system in some way.
+
+- Cyber risk: This is defined as “the potential of loss or harm related to technical infrastructure or the use of technology within an organisation.”
+
+- Cyber attack: This occurs when cybercriminals try to gain illegal access to electronic data stored on a computer or a network. The intent might be to inflict reputational damage or harm to a business or person, or the theft of valuable data. Cyber attacks can target individuals, groups, organisations or governments.
+
+- Protection: While IT security protects both physical and digital data, cyber security protects the digital data on your networks, computers and devices from unauthorised access, attack and destruction. Cyber security includes both network security and computer security.
+
+- Recovery: This describes the steps taken to recover from a cyber attack. The exact steps will depend on the type of attack, but recovery may include determining what was lost, reinstalling software and data from backups, finding and eliminating viruses and malware, investing in new software to block attacks, developing new procedures to prevent attacks and changing passwords.
+
+=====================================================================
+
+*** A cyber or cyber security threat ***
+
+This is an act that seeks to damage or steal data and disrupt digital life in general. They can be against individuals, businesses or nations. Cyber attacks include threats like computer viruses, data breaches, and Denial of Service (DoS) attacks:
+
+- Denial of Service (DoS) – A Denial of Service (DoS) attack is an attack meant to shut down a machine or network, making it inaccessible to its intended users. DoS attackers accomplish this by flooding the target with traffic, or by sending it information that triggers a crash. The DoS attack might crash a website or deprive legitimate users, such as employees, account holders or the public, of access to the service or resource.
+
+- Distributed Denial of Service (DDoS) – A DDoS attack occurs when attackers synchronise a DoS attack using multiple systems. However, with a DDoS attack, instead of being attacked from one location, the target is attacked from many locations at once. The distribution allows the attacker to make a more disruptive attack, and makes the attack more difficult to track down and stop.
+
+- Botnet – A Bot is a type of software application or script that performs tasks on command, allowing an attacker to take remote control of an affected computer or device. A collection of computers infected with Bots is called a ‘botnet’, and is controlled by the hacker or ‘bot-herder’. Botnets are commonly used in DDoS attacks.
+
+- Trojan – A Trojan is a type of malicious code or software that looks like a real piece of software but can then be used to take control of your computer. A Trojan is generally designed to disrupt operations, to steal data or to damage a network or system.
+
+- Ransomware – A form of malware that deliberately prevents you from accessing files on your computer, holding your data hostage. They normally work by encrypting files and requesting that a ransom be paid in order to have them decrypted or recovered.
+
+- Spyware – This is a type of malware that infiltrates your computing device, stealing your data and any sensitive information. Spyware may gather personal information such as your bank account log in details or passwords to email accounts.
+
+- Virus – This is a software program that is loaded onto a user’s computer without the user’s knowledge, and performs malicious actions. These range from deleting files to potentially destroying hardware.
+
+=====================================================================
+
+*** Malware ***
+
+This is a broad term that describes all forms of malicious software designed to wreak havoc on a computer. 
+
+Common types of malware include:
+	- viruses
+	- trojans
+	- worms
+	- ransomware
+
+=====================================================================
+
+*** Did you know? ***
+
+Powerful botnets have been responsible for some of the largest, most devastating cyber attacks. 
+
+Examples include:
+
+- The 2014 Hong Kong Attack – Political unrest in Hong Kong was the target of the largest DDoS attack in history up to that point, when several large botnets joined forces against pro-
+democracy websites in the country. Some have accused the Chinese government of this attack, but the actual perpetrator remains unknown.
+
+- The 2016 Mirai Attack – Named after a popular anime series, Mirai was a botnet consisting of more than 100,000 computers. The Botnet was behind a massive DDoS attack that left much of the Internet inaccessible on the U.S. East Coast. This was also the first major botnet to infect IoT devices, and may have infected more than 600,000 devices. Perhaps most surprising of all was that the botnet was created by a group of college kids looking to gain an edge in Minecraft.
+
+- The 2018 3ve (‘Eve’) attack – This was a global, complex group of online fraud operations. Around 1.7 million computers were infected with bots that created up to 12 billion fake ad views a day – charging companies for ads that were never seen. A White Hat alliance dismantled the botnet, resulting in the first-ever indictment and arrest of the perpetrators of this type of ad fraud.
+
+=====================================================================
+
+*** Test yourself ***
+
+Q1. Can you match the cyber threat terms with their brief descriptions?
+
+A1.
+	- A vulnerability -> is a flaw or weakness in a system or network that could be exploited by a threat actor
+	- A cyber attack -> is the potential of loss or harm related to technical infrastructure etc
+	- Cyber security -> protects the digital data on your networks, computers and devices from unauthorised access
+	- Recovery -> describes the steps taken to restore a system from a cyber attack
+
+Q2. What does DDoS mean?
+
+A2. distributed denial of service
+
+Q3. Can you match the cyber threats with their brief descriptions?
+
+A3.
+	- Denial of Service (DoS) -> is an attack meant to shut down a machine or network, making it inaccessible to its users
+	- Distributed Denial of Service (DDoS) -> occurs when attackers synchronise a DoS attack using multiple systems
+	- Bot -> is a type of software application or script that performs tasks on command
+
+Q4. Can you match the cyber threats with their brief descriptions?
+
+A4.
+	- Trojan -> is a type of malicious code or software that looks like a real piece of software
+	- Ransomware -> prevents you from accessing files on your computer, holding your data hostage
+	- Spyware -> infiltrates your computing device, stealing your data and any sensitive information
+	- Virus -> loaded onto a user’s computer without the user’s knowledge, and performs malicious actions
