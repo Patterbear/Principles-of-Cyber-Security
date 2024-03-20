@@ -1,0 +1,76 @@
+=====================================================================
+Unit 2: Understand Terminology used in Cyber Security
+Lesson 4: Organisational strategies
+=====================================================================
+
+An organisational strategy is the sum of the actions a company intends to take to keep its IT infrastructure secure. To keep its systems secure, an organisation (usually large in size) may build two separate functions which work together to meet the organisational strategy. 
+
+These functions are the Security Operations Centre (SOC) and the Network Operations Centre (NOC).
+
+=====================================================================
+
+*** SOC ***
+
+A Security Operations Centre (SOC) is a central function within an organisation employing people, processes, and technology to continuously monitor and improve an organisation’s security, while preventing, detecting, analysing, and responding to cyber security incidents. 
+
+An SOC acts like a central command post, taking in information from across an organisation’s IT infrastructure. The SOC then decides how security events will be managed and acted upon.
+
+The key aims of an SOC are:
+
+- To detect and respond to threats, keeping the information held on systems and networks secure.
+
+- To respond better to threats by learning about the existing and potential threats. The threats from cybercriminals are constantly evolving and the SOC must keep up to date with these threats and adapt the organisation’s security.
+
+- To identify negligent or criminal behaviours. This could be from either internal or external threats.
+
+- To improve business intelligence about user behaviours to shape and prioritise the use of new technologies. For example, do key cards keep getting lost? Should the organisation look at - finger print scanners instead?
+
+=====================================================================
+
+*** NOC ***
+
+A Network Operations Centre (NOC) is a centralised location where IT support technicians can supervise, monitor and maintain client networks. These centres may not necessarily be on site, and operations are often carried out by external suppliers. Their role is to ensure 24/7 uptime for all parts of the network.
+
+NOC services:
+
+An NOC is a central point for software distribution and updating, performance monitoring, coordination with other networks, network troubleshooting and router and domain name management. 
+
+Almost anything related to the network falls under the responsibility of the NOC. 
+
+Key tasks include:
+- performance reporting and improvement recommendations
+- firewall and intrusion prevention system monitoring and management
+- network discovery and assessments
+- optimisation and quality of service reporting
+- patch management and whitelisting
+- backup and storage management
+- email management services
+- voice and video traffic management
+- antivirus scanning and remediation
+- shared threat analysis
+- policy enforcement
+- application software installations, troubleshooting and updating.
+
+=====================================================================
+
+*** What is the difference between an NOC and an SOC? ***
+
+Both the NOC and SOC serve critical functions – to identify, investigate and resolve issues. While the NOC is focused on network performance and availability, the SOC consists of tools and employees who monitor, detect and analyse an organisation’s full security health every minute of every day.
+
+=====================================================================
+
+*** Test yourself ***
+
+Q1. What does SOC mean?
+
+A1. security operations centre
+
+Q2. What does NOC mean?
+
+A2. network operations centre
+
+Q3.  Can you match the term to its brief description?
+
+A3.
+	- SOC -> is a centralised function to continuously monitor an organisation's security, etc.
+	- NOC -> is a centralised location to supervise, monitor and maintain client networks, etc.
