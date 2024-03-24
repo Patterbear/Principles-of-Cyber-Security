@@ -1,0 +1,12 @@
+=====================================================================
+Unit 2: Understand Terminology used in Cyber Security
+Lesson 8: Open source information
+=====================================================================
+
+Open source information may be defined as information which is publicly available and which anyone can lawfully obtain by request, purchase, or review. A lot of open source information is easily obtainable by criminals.
+
+This information comes from a variety of sources, including the social media pages of a company and its staff, websites and google searches. These can be a goldmine of information, revealing details such as the names of key staff, design of ID badges, layout of the buildings and software used on internal systems. Many attackers will claim to be from someone in IT or senior management as a way of gaining access to the organisation. This type of information can be readily found on platforms such as LinkedIn or by looking at the company’s ‘about us’ webpage.
+
+Often, seemingly innocent information shared through social networks and blogs can be used to develop highly convincing social engineering campaigns, which in turn are used to trick well-meaning users into handing over key information like passwords.
+
+This is why using open source intelligence for security purposes is so important – it gives an organisation an opportunity to find and fix weaknesses in an organisation’s network and remove any sensitive information before a threat actor uses the same tools and techniques to exploit them.
