@@ -1,0 +1,68 @@
+=====================================================================
+Unit 2: Understand Terminology used in Cyber Security
+Lesson 10: Social engineering techniques
+=====================================================================
+
+*** Phishing ***
+
+Phishing is a very well-known way to grab information from an unwitting victim. Whilst it has been around for a while, it remains quite successful. The attacker typically sends an email or text to the target, seeking information that might help with a more significant crime. 
+
+There are a huge number of different ways to conduct phishing attacks, including sending emails purporting to be from senior members of staff, targeting high-profile individuals like senior management or CEO (this is a type of phishing called ‘whaling’), rewriting unattended browser tabs with malware so the user thinks they are on a real site, when really they are on a fake site (this is called tab nabbing), etc.
+
+Example:
+
+An attacker might send emails that appear to come from a source trusted by the would-be victims. That source might be a bank, for instance, asking email recipients to click on a link to log in to their accounts.
+
+Those who click on the link, though, are taken to a fake website that, like the email, appears to be the real site. If they log in at that fake site, they’re essentially handing over their login credentials and giving the attacker access to their bank accounts.
+
+In another form of phishing, known as spear phishing, the fraudster tries to target or ‘spear’ a specific person. The attacker will use social media to identify the name and email of, for example, a human resources person within a particular company. The attacker then sends the HR person an email that appears to come from a high-level company executive. 
+
+Some recent cases involved an email request for employee payroll data, which includes names, home addresses, and National Insurance numbers. If the attacker is successful, the victim will unwittingly hand over information that could be used to steal the identities of dozens or even thousands of people.
+
+=====================================================================
+
+*** Did you know? ***
+
+One of the simplest – and often most successful – social engineering techniques is to simply pretend to be your victim. In 2016, a hacker found out the email address of a U.S. Department of Justice employee and used it to impersonate the employee. He managed to convince the help desk to hand over an access token for the DoJ intranet by saying it was his first week on the job and he didn’t know how anything worked.
+
+=====================================================================
+
+*** What is the difference between an NOC and an SOC? ***
+
+Both the NOC and SOC serve critical functions – to identify, investigate and resolve issues. While the NOC is focused on network performance and availability, the SOC consists of tools and employees who monitor, detect and analyse an organisation’s full security health every minute of every day.
+
+=====================================================================
+
+*** Email hacking and contact spamming ***
+
+It’s in our nature to pay attention to messages from people we know. Some criminals try to take advantage of this by taking over email accounts and then sending out lots of emails spamming account contact lists. 
+
+People are more likely to open emails from people they know, allowing scammers to gain access to insert malware or to pretend to be the sender and ask for money or information.
+
+Example:
+
+If your friend sends you an email with the subject, “Check out this site I found, it’s totally cool,” you might not think twice before opening it. By taking over someone’s email account, a fraudster can make those on the contact list believe they’re receiving an email from someone they know. The primary objectives include spreading malware and tricking people out of their data.
+
+=====================================================================
+
+*** Quid pro quo ***
+
+This scam involves an exchange – I give you this, and you give me that. Fraudsters make the victim believe it’s a fair exchange, but that’s far from the case, as the cheat always comes out on top.
+
+Example:
+
+A scammer calls a target, pretending to be an IT support technician. The victim is persuaded to hand over the login credentials to their computer, thinking they’re receiving technical support. Instead, the scammer takes control of the victim’s computer, uploads malware or steals personal information from the computer.
+
+A recent and prolific recent example was the ‘Microsoft tech support scam’. In this social engineering fraud, a fake representative calls victims, spoofing the caller ID so it looks like the phone call really is coming from the software giant. The scammer walks the victim through the process of installing applications that allow remote access to your computer. Or, the scammer may initiate contact by displaying fake pop-up messages on your screen that trick you into calling a fraudulent ‘support’ hotline. With both scams, the goal is to get victims to pay, in the form of a one-time fee or subscription, to fix the problem.
+
+=====================================================================
+
+*** Vishing ***
+
+Vishing is the voice version of phishing. ‘V’ stands for voice, but otherwise, the scam is the same. One type of vishing attack involves sending recorded messages telling recipients their bank accounts have been compromised. Victims are then prompted to enter their details using their phone’s keypad, giving the scammers access to their accounts.
+
+=====================================================================
+
+*** Smishing ***
+
+Smishing is any kind of phishing that involves a text message. Smishing is effective because people tend to be more likely to trust a text message than an email. Most people are aware of the security risks involved with clicking on links in emails. This is less true when it comes to text messages. The scammer will send text messages that purport to be from legitimate entities. This is often used in combination with other techniques to bypass 2FA (two-factor authentication). They might also direct victims to malicious websites on their phones, where malware may be downloaded. Another technique is to say that if the victim doesn’t enter their personal information they will be charged for use of a service.
