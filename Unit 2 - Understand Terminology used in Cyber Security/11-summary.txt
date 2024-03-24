@@ -1,0 +1,26 @@
+=====================================================================
+Unit 2: Understand Terminology used in Cyber Security
+Lesson 11: Summary
+=====================================================================
+
+*** Summary ***
+
+In this section, we have learned:
+
+- different terms related to cyber security
+
+- the differences between LAN and WAN
+
+- organisational strategies in cyber security
+
+- current and emerging challenges in cyber security
+
+- how social engineering attacks work and the types of information that cyber criminals can gain
+
+- how cyber criminals take advantage of open sources of information.
+
+=====================================================================
+
+*** Well done! ***
+
+You have now completed this unit and can attempt your assessment.
