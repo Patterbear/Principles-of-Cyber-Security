@@ -1,0 +1,14 @@
+=====================================================================
+Unit 2: Understand Terminology used in Cyber Security
+Lesson 9: Information a cyber criminal could obtain through open sources
+=====================================================================
+
+All you need to do is consider how you use social media in order to realise that there is likely to be a huge amount of open source information already available about you. This could include information about your job history, education, hobbies, birth dates, family, and more. All of this information could help threat actors to tailor their phishing attacks.
+
+Gathering open source information does not require hacking into systems or using private credentials to access data. Much of this information can be obtained by searching online for a person’s name, accessing their social media accounts or through a phone call, perhaps while pretending to be a government worker.
+
+Company webpages can also be a good source of information on employee names, emails and job descriptions. Information like a person’s address and what they paid for their house are easily found on legitimate websites. Just having access to someone’s Facebook profile can show you information on their friends, relationship, personal interests, and family photos.
+
+And there are many techniques for easily finding out more about someone online. For example, typing file type: PDF “john” “doe” into Google could result in John Doe’s resume – complete with contact information and employment history. And because most companies use a standard email format (e.g. first initial.last name@company.com), once you know the work email address of one employee, you know them all.
+
+If the person or organisation owns a website you can grab information about it, revealing the operating system being used, software version, personal contact info, and more. There are any number of free-to-use resources out there that will help people gather open source information.
