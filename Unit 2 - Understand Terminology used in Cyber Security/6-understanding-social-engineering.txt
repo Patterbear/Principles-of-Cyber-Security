@@ -1,0 +1,24 @@
+=====================================================================
+Unit 2: Understand Terminology used in Cyber Security
+Lesson 6: Understanding social engineering
+=====================================================================
+
+Social engineering is an attack that involves manipulating people into breaking normal security procedures in order to gain access to systems, networks or physical locations, usually for financial gain.
+
+The criminals who carry out social engineering exploit the one weakness that is found in every person and organisation: human psychology. Usually using phone calls, emails and text messages, these attackers trick people into handing over access to sensitive information.
+
+There are several common attack types that social engineers use to target their victims. These include phishing, spear phishing, vishing, and smishing.
+
+Criminals use social engineering tactics because it is usually easier to exploit people’s willingness to trust someone than it is to discover ways to hack software. For example, it is much easier to fool someone into giving out their password than it is to hack their password.
+
+Security is all about knowing who and what to trust. It is important to know when and when not to take a person at their word, and when the person you are communicating with is who they say they are.
+
+It doesn’t matter how many locks, alarm systems, floodlights, fences with barbed wire, and armed security personnel you have; if you trust the person at the gate who says they are delivering pizzas and let them in without first checking to see if they are legitimate, you are completely exposed to whatever risk they represent. The same is true for cyber security. It doesn’t matter how much anti-virus software you have if you then tell someone on the phone your password details.
+
+=====================================================================
+
+*** Example - Real world spear phishing attack ***
+
+One of the biggest social engineering attacks was perpetrated by a threat actor named Evaldas Rimasauskas against two of the world’s biggest companies: Google and Facebook. Rimasauskas and his team set up a fake company – pretending to be a real computer manufacturer that worked with Google and Facebook, as well as bank accounts in the fake company’s name. 
+
+The scammers then sent phishing emails to specific Google and Facebook employees, invoicing them for goods and services that the real company had genuinely provided – but directing them to deposit money into the fake accounts. Between 2013 and 2015, Rimasauskas and his associates cheated the two tech giants out of over $100 million.
