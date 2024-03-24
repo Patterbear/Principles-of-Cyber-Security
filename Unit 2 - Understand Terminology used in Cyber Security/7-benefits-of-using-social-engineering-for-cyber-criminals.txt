@@ -1,0 +1,20 @@
+=====================================================================
+Unit 2: Understand Terminology used in Cyber Security
+Lesson 7: Benefits of using social engineering for cyber criminals
+=====================================================================
+
+Phishing is a low-investment, low-risk, high-reward strategy for cyber criminals. Some of the techniques used don’t even rely on people being particularly gullible, and can snare almost anyone. For example, pharming is a type of social engineering where the cyber criminal redirects web traffic from legitimate sites to malicious clones that can be indistinguishable from the real site. Users think they are on a real site, and put in their personal information or payment details without realising they are on a fake site.
+
+As soon as one scam is detected by authorities, new scams can be easily thought up, many of which respond to rapidly-changing world events. When vaccinations for the coronavirus first became available in the UK, scammers sent out phishing emails within days, pretending to be from the NHS, and directing people to enter their personal details on a cloned website in order to be scheduled for a shot.
+
+Social media is also an easy place to gather information, especially as people often let their guard down while on social sites. For example, angler phishing uses spoof customer service accounts on social media to get people to divulge personal details. Fear is another strong motivator. Scareware takes the form of a pop-up that warns that your security software is out of date or that malicious content has been detected on your machine – fooling victims into visiting malicious websites or buying worthless or non-existent products.
+
+Because these attacks rely on human error, many people are too embarrassed by them to report them, or when they do, the money stolen may be refunded by banks, giving police little incentive to pursue the thieves.
+
+=====================================================================
+
+*** Example ***
+
+In July 2020, Twitter lost control of 130 Twitter accounts, including those of Barack Obama, Joe Biden, and Kanye West. The hackers downloaded the data of high-profile users and used this to access their direct messages. They then made tweets requesting donations to a Bitcoin wallet. Within just a few minutes – even before Twitter could remove the tweets – the scammers had earned around $110,000 in Bitcoin from more than 320 transactions.
+
+The vishing attack may have begun when Twitter employees were somehow tricked into revealing account credentials that allowed access to the compromised accounts. After the hack, the FBI launched an investigation into Twitter’s security procedures.
