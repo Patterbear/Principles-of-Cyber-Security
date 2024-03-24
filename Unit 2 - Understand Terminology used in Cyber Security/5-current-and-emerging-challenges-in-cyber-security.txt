@@ -1,0 +1,99 @@
+=====================================================================
+Unit 2: Understand Terminology used in Cyber Security
+Lesson 5: Current and emerging challenges in cyber security
+=====================================================================
+
+The cyber security landscape is constantly changing as it tries to keep pace with the vast amount of cyber attacks. Here, we discuss the key challenges facing cyber security professionals, as well as some emerging threats which organisations and professionals are working hard to protect against.
+
+=====================================================================
+
+*** Current challenges in cyber security ***
+
+- Phishing attacks:
+
+Phishing is a cyber attack that usually uses email as a weapon. The goal of attackers is to trick the email recipient into believing that the message is from a trusted source, and to either click on or download an attachment, or navigate to a fake site and enter their personal details. 
+
+This is one of the oldest types of cyber attacks, dating back to the 1990s, and is still one of the most widespread. It is also becoming more sophisticated, with attackers using off-the-shelf tools and templates that very closely mimic real sources, like banks and government institutions. Nearly a third of all data breaches involve phishing.
+
+- Ransomware:
+
+Ransomware is a form of malware that encrypts a victim’s files. The attacker then demands a ransom, usually paid in Bitcoin or another cyber currency, in order to restore access to the data.
+
+Ransomware is often downloaded in email attachments that appear to come from a trusted source – a form of phishing. 
+
+Once the malware is downloaded, it can take over the victim’s computer. Some types of ransomware, like NotPetya, exploit security holes to infect computers without needing to trick users.
+
+- Increased data privacy regulation:
+
+Europe’s GDPR law, which was launched in 2016, and the UK Data Protection Act 2018 and UK GDPR, which apply provisions of the GDPR to the UK, set out the key principles, rights and obligations for most processing of personal data in the UK. Companies operating in both the UK and the EU may need to comply with both the UK GDPR and the EU GDPR.
+
+These laws give individuals more power over their data and enhance the responsibility of organisations in protecting the data they collect and use, including responsibility for data breaches. 
+
+There are tough penalties for those companies and organisations that don’t comply. For example, in 2020 British Airways was fined $26 million for a data breach that occurred in September 2018, and Marriott International was fined £18.4 million for a data breach between 2014 and 2018.
+
+- Cyber attacks on mobile devices:
+
+Research has found that up to 80% of fraudulent transactions may originate on mobile devices. As mobile devices increasingly touch every aspect of our personal and professional lives, they have become the focus for phishing, malware and other types of attacks. As many people now use their phones to conduct online banking, this makes mobile devices even more attractive to threat actors.
+
+- IoT ransomware:
+
+The Internet of Things is made up of devices which are connected to the Internet and to each other. For example, home appliances, lighting and security cameras. Hackers can use these devices as a gateway to access more sensitive information within the network, as well as information in the devices themselves. Hackers are increasingly targeting IoT devices, especially those that control other devices, for ransomware attacks. Some hackers also aim to ‘brick’ the appliance or device with Brickerbots – rendering it useless.
+
+For example, in 2019, a 14-year-old developed a piece of ransomware called Silex, which targeted IoT devices, for no apparent motive other than to cause financial loss. Silex works by destroying an IoT device’s storage, dropping firewall rules, and removing network configuration, ultimately causing the device to stop functioning.
+
+- The Dark Web:
+
+Websites like Wikipedia, Google, Amazon, YouTube, and Facebook are only a small part of the Internet. Beyond these ‘visible’ websites are others that are not readily available to the general public. That is where the Dark Web and the Deep Web can be found.
+
+The Dark Web is a general term for a collection of websites on encrypted networks with hidden IP addresses – all of which give users strong anonymity. Because they are not indexed by traditional search engines, they can only be accessed with special anonymity browsers.
+
+The Dark Web isn’t just for criminals. There are also legitimate reasons for using the Dark Web. In past years, it has gained popularity as a safe haven for whistle-blowers, activists, journalists, and others who need to share sensitive information, but can’t do so out in the open for fear of political persecution or retribution by their government or employer.
+
+Police and intelligence agencies also monitor the Dark Web to keep tabs on terror groups and cyber criminals. Additionally, corporate IT departments frequently crawl the Dark Web in search of stolen data and compromised accounts, and individuals may use it to look for signs of identity theft.
+
+In many circles, the Dark Web has become synonymous with the Internet. It now plays host to a number of media organisations involved in investigative journalism, such as ProPublica and Intercept. WikiLeaks – the website that publishes classified official materials – and similar sites, also have a home on the Dark Web. Even Facebook maintains a presence there in order to make itself accessible in countries where it is censored by the government.
+
+- Cloud services:
+
+A cloud service is an Internet service made available to users on demand instead of from a cloud computing provider’s servers. Cloud vulnerability will be one of the biggest cyber security challenges in the future as businesses are increasingly using cloud applications and storing sensitive data related to their employees and business operations on the cloud. This makes a tempting target for malicious hackers. Data breach, misconfiguration, insecure interfaces and APIs, account hijacking, malicious insider threats, and DDoS attacks are among the top cloud security threats that firms will be facing.
+
+On top of this, cloud companies like Google and Amazon which store data belonging to other companies will be open to large-scale hacking and deep cyber intrusions like the 2016–2017 Cloud Hopper attack that accessed data stored on six major cloud service providers. Access management is one of the most common cloud computing security risks, because it is a key point of attack for hackers.
+
+- Deepfakes:
+
+Deepfakes are fake videos or audio recordings that look and sound just like the real thing. Once requiring the expertise and skills of Hollywood special effects studios or intelligence agencies like the CIA, today anyone can download deepfake software and create convincing fake videos in their spare time.
+
+A key purpose of deepfakes is to create misinformation and fake news to undermine trust.
+
+As well as all the ethical issues, fake news can also have a damaging effect on hardware too. 
+
+In the business world, AI-generated fake videos or audio recordings can be used to impersonate CEOs, steal millions from enterprises, spread incorrect and misleading information about companies that can affect their stock price and interrupt business operations.
+
+In the future, deepfakes are expected to evolve into a sophisticated type of forgery, making it a huge cyber security threat.
+
+- AI-enhanced cyberthreats:
+
+This is related to deepfakes. Artificial intelligence (AI) and machine learning have disrupted every industry and are finding their way into the business mainstream. However, AI is also a boon for cybercriminals, who are developing ways to use AI to create malicious software that can adapt to evade those who are trying to eliminate it.  
+
+Hackers could integrate fuzzing techniques – the process of sending intentionally invalid data in the hopes of triggering an error condition or fault – with AI to create an automated tool that detects system vulnerabilities.
+
+Example: In March 2019, the CEO of a UK energy provider received a phone call from someone who sounded exactly like his boss. The call was so convincing that the CEO ended up transferring $243,000 to a Hungarian supplier. But this was really a bank account that belonged to a scammer and the ‘boss’ was a deepfake that used AI to mimic the boss’s voice.
+
+=====================================================================
+
+*** Did you know? ***
+
+Full Fact is the UK’s independent fact checking charity. They are a team of independent fact checkers and campaigners who find, expose and counter the harm done by fake news. https://fullfact.org/
+
+=====================================================================
+
+*** Test yourself ***
+
+Q1. Can you match the cyber security terms with their brief descriptions?
+
+A1.
+	- Phishing -> is a cyber attack that usually uses email as a weapon
+	- Ransomware -> is a form of malware that encrypts a victim’s files
+	- IoT -> devices which are connected to the Internet and to each other
+	- Dark web -> a general term for a collection of websites on encrypted networks with hidden IP addresses
+	- Deepfake -> fake videos or audio that look and sound like the real thing
