@@ -27,12 +27,6 @@ One of the simplest – and often most successful – social engineering techniq
 
 =====================================================================
 
-*** What is the difference between an NOC and an SOC? ***
-
-Both the NOC and SOC serve critical functions – to identify, investigate and resolve issues. While the NOC is focused on network performance and availability, the SOC consists of tools and employees who monitor, detect and analyse an organisation’s full security health every minute of every day.
-
-=====================================================================
-
 *** Email hacking and contact spamming ***
 
 It’s in our nature to pay attention to messages from people we know. Some criminals try to take advantage of this by taking over email accounts and then sending out lots of emails spamming account contact lists. 
