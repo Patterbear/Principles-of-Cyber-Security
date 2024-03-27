@@ -1,0 +1,105 @@
+=====================================================================
+Unit 3: Understand Legal and Ethical Aspects of Cyber Security
+Lesson 6: Ethical conduct in cyber security
+=====================================================================
+
+*** What are ethics in digital technology? ***
+
+Ethics are “a system of principles and customs that affect how people lead their lives”. Although we do not have to follow these principles or ethics, it is generally in the best interests of everyone that we do. 
+
+Ethics are different to legislation or laws that legally dictate what is right and wrong. Ethics are more about society’s opinions about what is right and wrong.
+
+When we think about ethics in digital technology, we are considering how society treats the use of digital technology and the development of hardware and software.
+
+For example:
+- Should a company be allowed to sell your search history to third parties? 
+- Should an employer be allowed to access your social media history? 
+- How should you conduct yourself when online?
+
+Because cyber security professionals are responsible for keeping data, computer systems and networks safe, they are also protecting the lives, livelihoods and happiness of those who depend upon them. 
+
+For example, if you are a cyber security professional responsible for securing a hospital’s network and critical data, you are also involved in protecting sick patients, even though you are not a healthcare worker.
+
+Patients’ privacy and health are in your hands. This means that ethical issues are at the core of cyber security practices. 
+
+Given the increasing complexity and difficulty of securing data, the ethical responsibility that falls on cyber security professionals is growing.
+
+=====================================================================
+
+*** Examples of ethical conduct in cyber security ***
+
+Following company IT policy:
+
+Organisational IT policies are written to ensure that personal customer and company information is protected, and that there is a balance between work efficiency and risk. 
+
+Some basic organisational IT policies could include:
+- Not visiting harmful sites from work devices.
+- Not connecting personal devices to the organisation’s WiFi.
+- Not accessing company servers from personal devices.
+- Not following these types of IT policies could leave companies and customers exposed to loss of information, hacking, and financial penalties.
+
+Maintaining confidentiality:
+
+In the course of their job, cyber security professionals often have access to confidential information, including personal information about employees, customers and clients, and information about the organisation they work for.
+
+It is very important that they keep this information confidential, both to protect the people and organisations involved, and to protect the reputation of their employer.
+
+Adherence to applicable laws:
+
+Cyber security professionals in the UK have both an ethical and a legal duty to adhere to various types of legislation, such as the GDPR. Failure to do so can have a negative effect on their employer, and on those whose information was compromised.
+
+Promoting information security:
+
+Effective security awareness training is essential in order to identify and respond appropriately to the growing range of cyber security threats. All employees, at every level of the organisation, should receive training to ensure they have the skills required to identify an attack. 
+
+Cyber security awareness training should be engaging and informative, to ensure that staff understand what is required of them and the importance of their role in safeguarding the organisation’s sensitive data.
+
+Security awareness training should:
+- Educate staff on the cyber threats faced.
+- Raise awareness of the sensitivity of data on systems.
+- Ensure procedures are followed correctly.
+- Provide information on how to avoid phishing emails and other scam tactics.
+- Reduce the number of data breaches.
+- Build a culture of enhanced security compliance.
+
+Organisations have an ethical duty to provide this training in order to protect their employees, clients and customers from data breaches.
+
+Refraining from conflicts of interest:
+
+A conflict of interest arises when a person owes a duty, or believes they owe a duty, to two competing interests. For example, if a cyber professional is asked by an employer to grant someone access privileges that they think are inappropriate, or that place security at risk. In this case, the cyber security professional may feel they have a duty to both the employer and to those whose information may be at risk. This is an ethical conflict of interest.
+
+It is not always possible to avoid conflicts of interest, but all organisations should have a policy in place that sets out what should be done in the case of a conflict of interest. The policy should clearly set out what a conflict of interest is, what steps should be taken, when a conflict must be reported, and who is responsible for making a decision.
+
+=====================================================================
+
+*** Unethical conduct within cyber security ***
+
+Cyber security professionals are often in a position to engage in different types of unethical conduct. Some of this may seem, at the time, like something that will not cause any damage – such as looking up the credit score of a friend at their request – but which is still clearly unethical behaviour and violates a professional duty of cyber security practice. 
+
+Some common types of unethical behaviour include:
+
+- Sabotage – damaging equipment or files.
+
+- Misusing or disclosing confidential information – looking up confidential information without a legal reason, selling or giving confidential information to others, or manipulating information.
+
+- Using information maliciously – this could include to get revenge or to damage the reputation of a business or a person, posting confidential information on social media, or simply discussing confidential information with fellow employees who do not have access to that information.
+
+It is not always completely clear what types of behaviour are unethical. For example, if your organisation is slow to report a data breach, at what point is the delay unethical? A week? A year? Or, how does your organisation respond to a request from a law enforcement agency to weaken your organisation’s encryption practices or to decrypt specific devices? This is why it is important that all organisations have a clear policy regarding ethical and unethical conduct and who is responsible for making decisions.
+
+=====================================================================
+
+*** Did you know? ***
+
+A British man was sent to prison for two years after he wiped out his ex-employer’s business-critical data in cloud storage, according to a report by the Thames Valley Police. 
+
+The report describes how Steffan Needham, of Bury, Greater Manchester, worked as an IT consultant at a digital marketing and software agency called Voova for four weeks in early 2016. After he was sacked for poor performance, he used a former co worker’s Amazon Web Services (AWS) account to access 23 AWS servers, where he deleted data related to Voova’s customers.
+
+The rampage cost the company £500,000 in lost contracts, causing it to let a number of employees go. The data was never reconstituted. The case is a good example of the need for effective data protection and recovery strategies.
+
+=====================================================================
+
+*** Test yourself ***
+
+Q1. Can you name one type of unethical behaviour within cyber security?
+
+A1.  sabotage/misusing or disclosing confidential information/using information maliciously
