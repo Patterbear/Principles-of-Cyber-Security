@@ -1,0 +1,24 @@
+=====================================================================
+Unit 3: Understand Legal and Ethical Aspects of Cyber Security
+Lesson 7: Summary
+=====================================================================
+
+*** Summary ***
+
+In this section, we have learned:
+
+- some of the key legislation related to cyber security and how it protects individuals, businesses, and nations
+
+- ways of protecting stored data
+
+- advantages and disadvantages of different data encryption techniques
+
+- types of security checks that might be undertaken before releasing information
+
+- what constitutes ethical and unethical conduct in cyber security.
+
+=====================================================================
+
+*** Well done! ***
+
+You have now completed this unit and can attempt your assessment.
