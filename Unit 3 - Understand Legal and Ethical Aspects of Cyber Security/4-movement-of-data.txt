@@ -1,0 +1,26 @@
+=====================================================================
+Unit 3: Understand Legal and Ethical Aspects of Cyber Security
+Lesson 4: Movement of data
+=====================================================================
+
+*** Advantages and disadvantages of encryption techniques ***
+
+Data in transit refers to data that is moving from one location to another, such as across the Internet or through a private network.
+
+Data protection in transit is the protection of this data while it’s travelling from network to network or being transferred from a local storage device to a cloud storage device – wherever data is moving, effective data protection measures for data in transit are critical, as data is often considered less secure while in motion.
+
+Data at rest refers to data that is not moving from device to device or network to network, such as data stored on a hard drive, laptop, flash drive, or archived/stored in some other way. Protecting data at rest involves securing inactive data stored on a device or network. While data at rest may be less vulnerable than data in transit, it can also be a more valuable target than data in motion.
+
+In either case, protecting sensitive data both in transit and at rest is important, as attackers find increasingly innovative ways to compromise systems and steal data.
+
+=====================================================================
+
+*** The role of encryption in data protection in transit and at rest ***
+
+Data can be exposed to attacks both in transit and at rest and requires protection at both times. There are a number of approaches to protecting data in transit and at rest. For example, encryption is a popular tool for securing data both in transit and at rest.
+
+=====================================================================
+
+*** Best practices for data protection in transit and at rest ***
+
+While data in transit and data at rest may have slightly different risk profiles, the risk lies primarily in the sensitivity and value of your data; attackers will attempt to gain access to valuable data in whichever state is easiest to breach. That’s why a proactive approach is the safest and most effective way to protect sensitive data.
