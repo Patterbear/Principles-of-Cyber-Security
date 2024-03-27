@@ -1,0 +1,110 @@
+=====================================================================
+Unit 3: Understand Legal and Ethical Aspects of Cyber Security
+Lesson 2: Ways to protect stored data
+=====================================================================
+
+All the way through this online course we have looked at the importance of keeping data secure; now we will look at it from an IT system point of view.
+
+Measures that can be taken to keep data secure include:
+
+- Making regular backups of files. If the worst was to happen, a recently saved copy of the data could be used to bring all the systems back with minimal impact.
+
+- Protecting yourself and your organisation against viruses by running anti-virus software.
+
+- Using a system of secure passwords so that access to data is restricted.
+
+- Only allowing authorised staff access to data storage systems.
+
+- Turning terminals off at night and locking them down with passwords.
+
+- Using data encryption techniques to code data so that it makes no apparent sense if intercepted.
+
+=====================================================================
+
+*** Back up early and often ***
+
+The single most important step in protecting data from loss is to back it up regularly.
+
+Individuals can use the backup utility built into Windows and Apple operating systems to perform basic backups and even set this up to be performed automatically. 
+
+There are also numerous third-party backup programs that offer more sophisticated options for individuals and businesses. Whatever program you use, it’s important to store a copy of the backup offsite or in the cloud, in case of a disaster that can destroy an organisation’s servers or other physical backups.
+
+=====================================================================
+
+*** Password protection ***
+
+For an organisation, all of the laptops, computers, tablets and smartphones in use will contain a lot of business-critical data, such as personal information on customers, and proprietary information. It is essential that this data is available only to authorised users.
+
+Passwords, when set up correctly, are a free, easy and effective way to prevent unauthorised access. 
+
+Some factors to consider include:
+
+- Organisations should have a policy in place that requires everyone to use strong passwords.
+
+- Passwords should not be left on notes by the device.
+
+- Consider using a cloud-based password safe/vault.
+
+- Strong passwords consist of a random string of letters (both capitals and lowercase), numbers and symbols. A series of random words is easier to remember, but they must be truly random.
+
+- Passwords should be changed regularly.
+
+- Never use the same password twice – use a unique password for every service, and don’t swap backwards and forwards between old and new passwords if a service demands that you input a brand-new password.
+
+- Passwords should not be shorter than 12 to 14 characters in length.
+
+Did you know?
+
+World Password Day occurs each year on the first Thursday of May. There’s no better time than the present for organisations to assess cyber-hygiene best practices for keeping data and devices secure from cyber threats.
+
+=====================================================================
+
+*** The use of anti-malicious software ***
+
+Anti-virus or anti-malware secures data by protecting against many types of malware, including all types of viruses, as well as rootkits, ransomware and spyware. Anti-malware software can be installed on an individual computer, server or mobile device.
+
+There are many types of anti-malicious software. The exact type you use will depend on the system you use and the level of security you need.
+
+=====================================================================
+
+*** Performing operating system updates ***
+
+Many malware attacks take advantage of software vulnerabilities in common applications, like operating systems and browsers. These are programs that require regular updates to remain safe and stable.
+
+Operating system updates are some of the most essential steps you can take when it comes to protecting your information. In addition to making security fixes, software updates can also include new or enhanced features, allow compatibility with different devices or applications, improve the stability of your software and remove outdated features. You can schedule regular, automatic updates.
+
+=====================================================================
+
+*** Share vs. file level security ***
+
+These are different types of permission for accessing networks and files. Share permissions manage access to folders shared over a network. For example, they allow everyone on a project to access the documents used in that project. They don’t apply to users who log on locally, so any documents kept on an individual computer are not shared.
+
+There are three types of share permissions – Full Control, Change and Read:
+
+- Read – users can see what is in the file or folder, but cannot make changes.
+
+- Change – users can read files, and can also add files, change the data in files, and delete files – but not folders.
+
+- Full control – users can do everything in both Read and Change, and they can also change permissions and delete folders.
+
+- File or NTFS permissions determine the action users can take for a folder or file both across the network and locally. Unlike share permissions, NTFS permissions offer several other permissions besides Full Control, Change, and Read that can be set for groups or individually. Here you can change who has visibility of folders and who can access the specific folder by putting specific users into groups.
+
+For example, senior managers may have full access to folders containing the company accounts across the network; however, you would not want the office administrator or receptionist to have access to these key documents unless authorised. To do this, the senior management team would be assigned access as a group through the NTFS permissions, whereas all other groups would be denied access.
+
+=====================================================================
+
+*** Encryption ***
+
+File and disk encryption is an important and necessary way to protect data stored on a computer or network.
+
+Disk encryption doesn’t completely protect a computer. Hackers can still access the computer over an insecure network connection, or infect the computer with malware. However, encrypting a computer’s files or the entire hard disk greatly reduces the risk of data theft.
+
+Encryption works like a form of digital cryptography. It uses mathematical algorithms to scramble messages, so that only individuals who have the digital key are able to decrypt and access the messages. Encrypted files can often be seen in a file listing, but they cannot be accessed and read without the key.
+
+Many operating systems have built-in encryption.
+
+For example, Windows supports an encryption system called the Encrypting File System (EFS). You can use this built-in certificate-based encryption method to protect individual files and folders stored on Windows machines. Encrypting a file or folder is as easy as checking a box. 
+
+There are many products available that will allow you to encrypt an entire disk, for example, by locking down the entire contents of a disk drive/partition. Data is automatically encrypted when it’s written to the hard disk and automatically decrypted before being viewed.
+
+Disk encryption products can also be used to encrypt removable USB drives, flash drives, etc. Some allow creation of a master password along with secondary passwords that allows you to give partial access to other users. There are two main methods of encryption: symmetric encryption and asymmetric encryption.
