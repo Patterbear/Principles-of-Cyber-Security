@@ -1,0 +1,74 @@
+=====================================================================
+Unit 3: Understand Legal and Ethical Aspects of Cyber Security
+Lesson 3: How to encrypt information
+=====================================================================
+
+The encrypting of data is vitally important as a measure to protect files. Two common encryption types are:
+
+- symmetric encryption (also called secret key encryption)
+
+- asymmetric encryption (also called public key encryption).
+
+The basic difference between these two types of encryption is that symmetric encryption uses one key for both encryption and decryption, and asymmetric encryption uses a public key for encryption and a private key for decryption.
+
+Let’s explore each of these encryption methods separately to understand their differences better.
+
+=====================================================================
+
+*** Symmetric encryption ***
+
+In symmetric-key encryption, each computer has a secret key that it can use to encrypt information before it is sent to another computer, where it is decoded. It is like a secret code that both computers must know in order to decrypt the information.
+
+The code provides the key to decoding the message.
+
+[[symmetric-encryption.png]]
+
+The standard used for encryption is called the Advanced Encryption Standard (AES). This uses 128-, 192- or 256-bit keys. A 128-bit key, for instance, can have more than 300,000,000,000,000,000,000,000,000,000,000,000 key combinations, making it time consuming to break this type of encryption using brute force techniques (trying every combination).
+
+This encryption method is best suited for encrypting files and drives. 
+
+Because the key is often derived from a password, one weak spot with symmetric-key encryption is that it is only as strong as the password itself.
+
+=====================================================================
+
+*** Asymmetric encryption ***
+
+Unlike symmetric-key encryption, asymmetric-key encryption uses two different keys at the same time – a public key and a private key. 
+
+This type of encryption is commonly used for sending information between two devices.
+
+Public-key encryption uses two different keys at once – a combination of a private key and a public key. The private key is known only to your computer, while the public key is given by your computer to any computer that wants to communicate securely with it.
+
+[[asymmetric-encryption.png]]
+
+To decrypt an encrypted message, a receiving computer must use the public key, provided by the originating computer, and its own private key. Although a message sent from one computer to another won’t be secure, since the public key used for encryption is published and available to anyone, it can’t be read without the private key.
+
+The key pair is based on very long prime numbers. This makes the system extremely secure, because there is essentially an infinite number of prime numbers available, meaning there are nearly infinite possibilities for keys. One very popular public-key encryption program is Pretty Good Privacy (PGP), which allows almost anything to be encrypted.
+
+In order to use public-key encryption on a large scale, such as with a Web server, a different method is used – digital certificates. A digital certificate is basically a unique piece of code, or a very large number, that is authorised by an independent source known as a certificate authority. The certificate authority is a middle man that both computers trust.
+
+The certificate confirms that each computer is in fact who it says it is, and then provides the public keys of each computer to the other.
+
+The Secure Sockets Layer (SSL) is an Internet security protocol that makes use of a certificate and public-key encryption. It is part of a larger security protocol known as Transport Layer Security (TLS).
+
+In your browser, you can tell when you are using a secure protocol because the ‘http’ in the address line is replaced with ‘https’, and a small padlock will appear in the status bar at the bottom of the browser window.
+
+Once your browser requests a secure page and adds the ‘s’ onto ‘http’, it will send out the public key and the certificate, and check that the certificate is valid and comes from a trusted party, and that the certificate belongs with the site from which it’s coming.
+
+=====================================================================
+
+*** Advantages and disadvantages of encryption techniques ***
+
+The advantages and disadvantages of the different encryption techniques are:
+
+- Symmetric encryption is faster to run because the keys used are much shorter than those used in asymmetric cryptography. This allows symmetric encryption to handle a greater volume of data in a given time.
+
+- Symmetric encryption is the preferred method for encrypting long messages or large files because it will not place a heavy load on processors, memory capacity or the batteries of portable devices.
+
+- In symmetric encryption, the key needs to be transmitted between the communicating devices and it can be intercepted.
+
+- Asymmetric encryption is more secure, because it uses two different keys.
+
+- Asymmetric encryption is slower and takes more processing power and energy. 
+
+- In asymmetric encryption, once your private key is identified by an attacker, then all of your messages can be accessed.
