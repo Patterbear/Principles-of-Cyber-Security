@@ -1,0 +1,48 @@
+=====================================================================
+Unit 3: Understand Legal and Ethical Aspects of Cyber Security
+Lesson 5: Security checks made by an organisation
+=====================================================================
+
+Data sharing usually means disclosing personal data to third parties outside of the organisation.
+
+In the UK, organisations have to be extremely careful with how they share and distribute personal information.
+
+Organisations are usually very familiar with protecting personal information they hold themselves, but establishing appropriate security in respect of shared information usually presents new challenges.
+
+Before sharing information an organisation should:
+
+- Review what personal data your organisation receives from other organisations, making sure you know where it came from.
+
+- Review what personal data your organisation shares with other organisations, making sure you know who has access to it and what it will be used for.
+
+These two areas are what an organisation would call a due diligence check. This means ensuring that all key security checks are complete before handing over personal information.
+
+An organisation should also assess whether and how to share any data that is particularly sensitive.
+
+Due diligence also involves identifying who has access to information that other organisations have shared with your organisation. You should avoid giving anyone access to shared information they do not need to carry out their job.
+
+There should be robust security policies and procedures in place, and all staff members in the organisation who are involved in the sharing of information should be aware of these policies and procedures.
+
+For both parties, it is good practice to have a data sharing agreement in place. This will set out the purpose of the data sharing, cover what is to happen to the data at each stage, set standards of data management and help all the parties to be clear about their roles. This will help you to demonstrate your accountability under the GDPR.
+
+=====================================================================
+
+*** Example – Bounty UK fined £400,000 for sharing personal data unlawfully ***
+
+In 2019, the Information Commissioner’s Office (ICO) fined Bounty (UK) Limited £400,000 for illegally sharing personal information belonging to more than 14 million people.
+
+According to the ICO, an investigation found that “Bounty, a pregnancy and parenting club, collected personal information for the purpose of membership registration through its website and mobile app, merchandise pack claim cards and directly from new mothers at hospital bedsides.
+
+But the company also operated as a data broking service until 30 April 2018, supplying data to third parties for the purpose of electronic direct marketing. Bounty breached the Data Protection Act 1998 by sharing personal information with a number of organisations without being fully clear with people that it might do so.
+
+The company shared approximately 34.4 million records between June 2017 and April 2018 with credit reference and marketing agencies, including Acxiom, Equifax, Indicia and Sky.
+
+These organisations represented the four largest recipients out of a total of 39 organisations which Bounty confirmed it shared personal data with.
+
+The personal information shared was not only of potentially vulnerable new mothers or mothers-to-be, but also of very young children, and included the birth date and sex of the children.
+
+Steve Eckersley, ICO’s Director of Investigations, said: “The number of personal records and people affected in this case is unprecedented in the history of the ICO’s investigations into data broking industry and organisations linked to this".
+
+“Bounty were not open or transparent to the millions of people that their personal data may be passed on to such large number of organisations. Any consent given by these people was clearly not informed. Bounty’s actions appear to have been motivated by financial gain, given that data sharing was an integral part of their business model at the time".
+
+“Such careless data sharing is likely to have caused distress to many people, since they did not know that their personal information was being shared multiple times with so many organisations, including information about their pregnancy status and their children.”
