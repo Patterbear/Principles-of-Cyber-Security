@@ -1,0 +1,67 @@
+=====================================================================
+Unit 4: Understand Common Threats to Cyber Security
+Lesson 1: Understand the common and emerging threats to cyber security – types of cyber attack
+=====================================================================
+
+To achieve their goals of gaining access or disabling operations, a number of different methods are deployed by cyber criminals. There are always new methods being developed, and some of these categories overlap.
+
+=====================================================================
+
+*** Phishing ***
+
+In phishing, cyber criminals craft emails to fool a target. The recipient might be tricked into downloading malware that’s disguised as an important document, for instance, or convinced to click on a link that takes them to a fake website where they’ll be asked for personal information, like bank user names and passwords. 
+
+Many phishing emails are relatively simple and are sent to thousands of potential victims, but some are specifically crafted to target specific individuals.
+
+=====================================================================
+
+*** Spear phishing ***
+
+This is a type of phishing attack where, instead of sending out a mass email, a particular individual or individuals are targeted. As with phishing, a spear phishing attack will often involve an email and an attachment, but it will be addressed to a specific person, such as a ranking official or someone involved in confidential operations within an organisation. 
+
+In a spear phishing attack, the attackers usually perform reconnaissance methods before launching their attacks. For example, determining how they format their email addresses and using social media and other publicly available sources to gather information.
+
+=====================================================================
+
+*** Vishing ***
+
+This is another type of phishing attack, but one that uses a phone call. During a vishing call, a scammer uses social engineering to get you to share personal information and financial details. In one popular scenario, the scammer says they are from your bank or law enforcement and your account has been compromised, then they ask you to tell them your account details or direct you to a fake site to enter personal information.
+
+=====================================================================
+
+*** Denial of service ***
+
+A denial of service attack is a brute force method to try to stop some online services such as websites from working properly. For instance, attackers might send so much traffic to a website that it overwhelms the system’s ability to function, making it unavailable. A distributed denial of service (DDoS) attack uses an army of computers, usually compromised by malware and under the control of cyber criminals, to aim the traffic towards the targets.
+
+=====================================================================
+
+*** Zero-day exploits ***
+
+Zero-days are vulnerabilities in software that have been announced, but not yet fixed. The name comes from the fact that once a patch is released, each day there are fewer and fewer computers open to attack, as users download their security updates.
+
+=====================================================================
+
+Some emerging threats include:
+
+Man in the middle – This is a type of attack where the attacker intercepts and alters communication between two people or organisations so they can masquerade as one of those communicating and steal information.
+
+Smishing – This is any kind of phishing that involves a text message. The techniques are very similar to phishing, but use text messages instead of emails. It is particularly effective because people tend to be more inclined to trust a text message than an email. While most people are aware of the security risks involved with clicking on links in emails, they may not yet be aware of the risks of clicking on links in text messages.
+
+Cryptojacking – Cryptojacking is an emerging type of specialised attack that involves getting someone else’s computer to do the work of generating cryptocurrency for you (a process which is also called data mining). The attackers will install malware on the victim’s computer to perform the necessary calculations.
+
+Watering hole attack – Also called water holing, this works by identifying a website that’s frequented by users within a targeted organisation, or even an entire sector, such as defence, government or healthcare. The attacker identifies weaknesses in the main target’s cyber security, then manipulates the site to deliver malware that will exploit these weaknesses. The computer of anyone visiting or downloading material from that site is then infected with malware.
+
+Synthetic identity fraud – In this rapidly-emerging type of fraud, criminals don’t steal an identity, but instead create a new one. To do this, they might combine fake and real information, for example, mixing a fake name and address with a real identification number they have stolen or purchased. They then use this identity to open bank accounts and obtain credit cards. Fraudsters then use these credit cards to make large purchases or obtain bank loans. In the end, the fraudster will vanish without paying off any of the debt.
+
+=====================================================================
+
+*** Test yourself ***
+
+Q1. Can you match the type of cyber security attack to its brief description?
+
+A1.
+	- Phishing -> cyber criminals send emails to fool the recipient into downloading malware.
+	- Spear phishing -> a particular individual or individuals are targeted via specific emails.
+	- Vishing -> a scammer uses social engineering to get you to share personal info' and financial data.
+	- Denial of service -> a brute force method to try to stop some online services by overwhelming its capabilities.
+	- Zero-day exploits -> vulnerabilities in software that have been announced, but not yet fixed.

@@ -1,0 +1,6 @@
+=====================================================================
+Unit 4: Understand Common Threats to Cyber Security
+Lesson 0: Introduction and learning objectives
+=====================================================================
+
+In this section, you will gain an understanding of malicious software and the ways in which a system can be infected. You will understand common and emerging threats as well as physical threats to cyber security.
