@@ -1,0 +1,34 @@
+=====================================================================
+Unit 4: Understand Common Threats to Cyber Security
+Lesson 6: The importance of check and challenge on the premises
+=====================================================================
+
+Check and challenge is the process of confirming someone’s identify and their reason for visiting the business premises or area. It is usually done at reception but can also be carried out by security professionals or through use of key cards or access codes.
+
+Check and challenge is particularly important in areas where there is highly sensitive or classified data or work. Behaviour that may trigger check and challenge could include ‘tailgating’ (waiting until someone with a code or key card opens the door and then entering an area before the door closes and locks again), re-using visitors’ passes, or people who have talked their way through reception, for example, by posing as a delivery worker.
+
+By carrying out check and challenge, organisations can ensure that the people accessing their site are there for the right reasons and not attempting to cause damage to their computer systems or steal data.
+
+=====================================================================
+
+*** How organisations can protect themselves from unauthorised entry ***
+
+- All staff to wear and display ID badges:
+
+If all permanent staff members do not wear ID badges, it makes it difficult to tell the difference between an intruder and a member of staff. If all staff members display an ID badge and all visitors are wearing a visitor pass, it becomes much easier to spot an intruder.
+
+- Allocate a single point of entry and exit for visitors:
+
+One key security measure is for all visitors to enter and leave via the same door. This will allow reception staff to monitor all visitors and ensures that when a visitor leaves the premises they sign out and hand back the visitors’ pass.
+
+- Visitors must supply valid picture ID:
+
+Visitors must supply valid picture ID such as a driving licence or passport as proof of identification on arrival. This helps confirm the person coming into the building is who they say they are.
+
+- Visitor badges should not leave the premises:
+
+How many times have you visited a business and kept the visitors’ badge afterwards? Preventing visitors from removing badges from the premises limits the chances of them being lost, stolen, or reused by an attacker.
+
+- Education of employees:
+
+It is vital that employees have training in security procedures. It is also important that the employees know what action should be taken should an intruder be identified.
