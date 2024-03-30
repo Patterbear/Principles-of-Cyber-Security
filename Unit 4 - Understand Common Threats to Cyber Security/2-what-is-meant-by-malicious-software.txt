@@ -1,0 +1,92 @@
+=====================================================================
+Unit 4: Understand Common Threats to Cyber Security
+Lesson 2: What is meant by malicious software
+=====================================================================
+
+Malicious software, which is more commonly known as malware, is a piece of software that seeks to harm or compromise a computer system. Malware can be in the form of worms, viruses, trojans, spyware, adware, rootkits and more. 
+
+All of these can steal protected data, delete files or install extra software not wanted by a user.
+
+=====================================================================
+
+*** Botnet ***
+
+A botnet is a network of computers that have been intentionally infected with malware so that they will perform automated tasks on the Internet without the permission (or knowledge) of the devices’ owners.
+
+Personal computers, servers, and even webcams and smart devices like WiFi-enabled refrigerators can be used in botnets.
+
+=====================================================================
+
+*** Malware ***
+
+Short for malicious software, malware can refer to any kind of software that is designed to cause damage to a single computer, server or computer network. 
+
+Worms, viruses and trojans are all varieties of malware and are distinguished from one another by the ways that they reproduce and spread. These attacks may be designed to render the computer or network inoperable, or grant the attacker root access so they can control the system remotely.
+
+=====================================================================
+
+*** Trojan ***
+
+A Trojan horse, or Trojan, is a type of malicious code or software that looks like a real piece of software but can then take control of a computer. A Trojan is designed to damage, disrupt, steal, or inflict some other harmful action on data or a network. 
+
+Cybercriminals use forms of social engineering to trick users into loading and executing Trojans on their systems. Once activated, Trojans can give cybercriminals access to a system in order to spy or steal sensitive data.
+
+There are many types of Trojan, including:
+
+- Backdoor – this gives attackers remote control over the infected computer.
+
+- Rootkit – these Trojans are designed to conceal certain objects or activities in your system. Often their main purpose is to prevent malicious programs from being detected.
+
+- Trojan-dropper – used by hackers in order to install Trojans and/or viruses.
+
+- Trojan-game thief – these steal user account information from online gamers.
+
+=====================================================================
+
+*** Ransomware ***
+
+Ransomware is a form of malware that encrypts a victim’s files. The attacker then demands a ransom from the victim to restore access to the data. 
+
+Users are given instructions for how to pay a fee to get the decryption key. The costs can range from a few hundred dollars to thousands, and are typically payable in cryptocurrency.
+
+=====================================================================
+
+*** Spyware ***
+
+This is unwanted software that infiltrates a computing device, stealing the Internet usage data and sensitive information. 
+
+Spyware is a type of malware – malicious software designed to gain access to or damage a computer, often without the user’s knowledge. It may gather personal information such as bank account log in details or passwords to email accounts.
+
+=====================================================================
+
+*** Virus ***
+
+A computer virus is a software program that is loaded onto a user’s computer without their knowledge, and that performs malicious actions. 
+
+These range from deleting files to potentially destroying hardware.
+
+Synthetic identity fraud – In this rapidly-emerging type of fraud, criminals don’t steal an identity, but instead create a new one. To do this, they might combine fake and real information, for example, mixing a fake name and address with a real identification number they have stolen or purchased. They then use this identity to open bank accounts and obtain credit cards. Fraudsters then use these credit cards to make large purchases or obtain bank loans. In the end, the fraudster will vanish without paying off any of the debt.
+
+=====================================================================
+
+*** Worm ***
+
+This is a type of malware that spreads copies of itself from computer to computer without any human involvement. Worms do not need to attach themselves to a software program in order to cause damage. 
+
+Worms can modify and delete files, or insert malicious software onto a computer. Sometimes a worm’s purpose is just to make copies of itself – depleting system resources and overloading a shared network. They can also steal data, install a backdoor, and allow a hacker to gain control over a computer and its system settings.
+
+=====================================================================
+
+*** Test yourself ***
+
+Q1. What is the common term used to describe malicious software?
+
+A1. malware
+
+Q2. What is the term used to describe a type of malicious code or software that looks like a real piece of software but can then take control of a computer?
+
+A2. trojan
+
+Q3. What is the term used to describe a form of malware that encrypts a victim’s files? The attacker then demands a ransom from the victim to restore access to the data.
+
+A3. ransomware

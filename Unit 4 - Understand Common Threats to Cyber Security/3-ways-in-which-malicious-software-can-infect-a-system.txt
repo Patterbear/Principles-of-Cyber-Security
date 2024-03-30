@@ -1,0 +1,65 @@
+=====================================================================
+Unit 4: Understand Common Threats to Cyber Security
+Lesson 3: Ways in which malicious software can infect a system
+=====================================================================
+
+*** How malware can infect your PC ***
+
+Malware can find its way on to your computer in a number of ways.
+
+=====================================================================
+
+*** Spam emails ***
+
+The people who create malware often use tricks to try to convince users to download damaging files. This can be an email with a file attached that says it is a receipt for a delivery, a tax refund or an invoice for something you have bought. If the attachment is opened, users could end up installing malware onto their computer without their knowledge. 
+
+A malicious email may sometimes be easy to spot – it could have bad spelling and grammar or come from an email address that people don’t recognise. However, these emails can also look like they come from a real business or someone you know. Some malware can also hack email accounts and use them to send malicious spam to any contacts they find. To prevent a computer from being infected, it’s a good idea to consider the following:
+
+If you aren’t sure who sent you the email – or something doesn’t look quite right – don’t open it.
+If an email says you have to update your details, don’t click on the link in the email.
+Don’t open an attachment to an email that you weren’t expecting, or that was sent by someone you don’t know.
+
+=====================================================================
+
+*** Infected removable drives ***
+
+Many types of malware can be easily spread by infecting removable drives such as USB flash drives or external hard drives. The malware can be automatically installed when you connect the infected drive to your computer. 
+
+Some worms can also spread by infecting computers connected to the same computer network. There are several things you can do to avoid this type of infection:
+
+Run a security scan of your removable drives every time you plug them in.
+Disable the Autorun function so that it doesn’t automatically start when you plug it in.
+
+=====================================================================
+
+*** Bundled with other software ***
+
+Some malware can be installed while you are downloading other programmes. This includes software from websites. Some malware will try to install other software that will be detected as unwanted software. This can include new toolbars on your web browser or programs that show you extra advertisements as you browse the web. 
+
+There will often be an option to opt out of installing this extra software by checking a box during installation. You can avoid installing malware or potentially unwanted software by:
+
+- Only downloading software from the official vendor’s website.
+
+- Taking your time to install the software, making sure you read exactly what you are installing.
+
+=====================================================================
+
+*** Compromised webpages ***
+
+Malware can enter a computer through infected websites. As soon as you enter the website, the malware will download to your computer. The website might have been created solely for the purpose of trying to get malware installed on as many computers as possible, or it could be a legitimate website that has been compromised or hacked.
+
+=====================================================================
+
+*** Spyware ***
+
+This is unwanted software that infiltrates a computing device, stealing the Internet usage data and sensitive information. 
+
+Spyware is a type of malware – malicious software designed to gain access to or damage a computer, often without the user’s knowledge. It may gather personal information such as bank account log in details or passwords to email accounts.
+
+=====================================================================
+
+*** Test yourself ***
+
+Q1. Which of the following are methods that malware can use to infect a PC?
+
+A1.  spam emails, infected removable drives, USB flash drives, external hard drives, bundled with other software, compromised webpages
