@@ -1,0 +1,28 @@
+=====================================================================
+Unit 4: Understand Common Threats to Cyber Security
+Lesson 8: Threats presented by remote working
+=====================================================================
+
+*** Security challenges of remote working ***
+
+The willingness to work remotely has never been greater than right now. However, companies who offer more remote work opportunities must look at a wide range of security challenges and so must respond accordingly to prevent unauthorised network access.
+
+Allowing employees to access company data from offsite locations raises serious concerns about data encryption, the security of wireless connections, use of removable media and potential loss or theft of devices and data.
+
+The following are some of the security challenges presented by remote working, to both workers and the organisation:
+
+- Fewer layers of security: Organisations often use perimeter access controls, local area networks and other security tools, such as firewalls and dedicated work computers that come with encryption. Without these multiple layers of security, remote workers are more vulnerable to security threats.
+
+- Reduced security on BYOD and mobile devices: Using personal devices and open Wi-Fi can expose data to threats from hacking. Many phishing attacks now use text messages or WhatsApp. Using a device that has these apps installed can leave the device, and the data on it, exposed to this type of attack. All employees should be required to use secure passwords and secure Wi-Fi, or a VPN with end-to-end encryption, on any devices they use for work. Organisations can also provide security themselves by installing authorised antivirus and security software.
+
+- Loss or theft of devices: If employees are working outside their home, for example, in a coffee shop, there is added risk of losing a device or having it stolen.
+
+- Tracking and managing data in the cloud: Many businesses, especially those that operate almost entirely remotely, store and share work in the cloud. This can leave the data open to risks in the event that the cloud server is hacked. Cloud-based IT management platforms can be used to allow businesses to connect, monitor and secure data on the cloud, without any geographical boundaries.
+
+- Inadequate backup and recovery systems: In case of an accidental data loss, remote employees using their own devices often do not have adequate backups in place. This can be solved by having a centralised data backup and recovery programme for all remote devices used for work, or by using a cloud backup.
+
+- Damage to equipment: This may be more likely to happen when people are working remotely and in a less-controlled environment. For example, they may be working around pets or small children or in a place where food and drink can more easily be spilled on a device.
+
+- Mixing up work and personal use: Remote employees who are using a BYOD device are probably using the same device for work and personal use, and could mix up personal and business data. So, if an employee’s laptop crashes due to malware that was accidentally downloaded on software for personal use, the business data is lost too. This is why having a backup is very important.
+
+- Legal compliance: Small businesses employing freelancers and remote staff can have a harder time ensuring they strictly abide by the rules of GDPR. This is because it is unclear how some of the rules apply to employees using BYOD devices. For example, how would the rules apply to an American citizen working for a US-based company, who is living and working remotely in the EU? All businesses with remote employees should have a clear policy on how they handle business data at all times.
