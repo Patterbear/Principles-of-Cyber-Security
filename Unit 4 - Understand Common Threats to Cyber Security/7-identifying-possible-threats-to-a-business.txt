@@ -1,0 +1,92 @@
+=====================================================================
+Unit 4: Understand Common Threats to Cyber Security
+Lesson 7: Identifying possible threats to a business
+=====================================================================
+
+*** Personal devices ***
+
+In addition to employees using their personal devices for company business, many organisations have started using a bring-your-own-device (BYOD) policy, where employees use their own computers, phones, etc. for work, bringing them to the office or using them when working remotely.
+
+However, this policy also has a number of risks. These include the possibility that employees’ personal devices will not be as well protected as company devices. There is also an increased risk of infection from malware, for example, if the employee downloads an app from an untrustworthy source.
+
+Because the employees will be carrying their devices to and from work, there may also be an increased risk of the devices being lost or stolen. Personal devices also tend to lack robust data encryption, or may not be regularly updated, so they may also be easier to hack. If employees are working remotely, such as from Wi-Fi hotspots in public, this could also leave them more vulnerable to hacking and to malware.
+
+=====================================================================
+
+*** Removable devices ***
+
+Removable media and devices include:
+
+- Optical discs – such as Blu-Ray discs, DVDs and CD-ROMs
+
+- Memory cards – such as Compact Flash card, Secure Digital card and Memory Sticks
+
+- Zip Disks/Floppy disks
+
+- USB flash drives.
+
+Removable media provide a common route for the introduction of malware and the export of sensitive data. Removable media is very easily lost, which could result in the compromise of large volumes of sensitive information.
+
+=====================================================================
+
+*** Did you know? ***
+
+In 2018, Heathrow Airport was fined £120,000 by regulators after a data breach caused by a lost USB stick. An airport employee lost a USB stick containing 76 folders and over 1,000 confidential files containing the names, dates of birth, passport numbers, and other details of individuals and security staff.
+
+The USB was discovered by a member of the public, who opened the USB at a public library before handing it to the press. The information on the USB was not protected or encrypted. After the newspaper took a copy of the information, the stick was returned to the airport.
+
+=====================================================================
+
+*** Hardware ***
+
+Physical hardware theft and loss are also huge risks to an organisation. The loss of a laptop, mobile device, or storage devices such as hard drives and flash drives can result in high costs and loss of reputation. 
+
+Understanding how hardware theft and loss happens, and how to reduce the risks of both physical device and data loss, helps organisations to reduce the risks and the impact of a loss on their business.
+
+Human error is one of the largest risk factors in hardware loss. Employees may accidentally leave laptops, phones and other devices in public places, such as on trains, and these may be found by fraudsters or those who sell them to fraudsters.
+
+While most of us think that we would never lose a laptop, one study by Kensington showed that 84% of businesses surveyed had reported a lost or stolen laptop. In fact, data shows that, in the US, more than 12,000 laptops are left in airports each week, and most of these are never returned to their owners.
+
+=====================================================================
+
+*** Networking infrastructure ***
+
+Network infrastructure refers to all of the resources of a network that make network or Internet connectivity possible. Network infrastructure includes both hardware and software, along with elements like servers, network hubs and switches, firewalls, Wi-Fi access points and routers.
+
+Making sure the network infrastructure is robust, secure and protected is critical to cyber security.
+
+Just like a secure physical perimeter can safeguard the material inside a building, a secure networking infrastructure can help safeguard data from hackers. A network perimeter is the secured boundary between the private and locally managed side of a network, such as a company’s intranet, and the public facing side of a network, often the Internet.
+
+Network infrastructure could include:
+
+- Border Routers: These direct traffic into, out of, and throughout networks. The border router is the final router under the control of an organisation before traffic appears on an untrusted network, such as the Internet.
+
+- Firewalls: This is a set of rules specifying what traffic will be allowed to pass through or denied access. A firewall is usually more thorough at filtering traffic than a border router.
+
+- Intrusion Detection System (IDS): This acts like an alarm system for your network. It is used to detect and alert on suspicious activity. This system can consist of a single device or a collection of sensors placed at strategic points in a network.
+
+- Intrusion Prevention System (IPS): Compared to a traditional IDS which simply notifies administrators of possible threats, an IPS can attempt to automatically defend the target without the administrator’s direct intervention.
+
+- Demilitarised Zones/Screened Subnets: DMZ and screened subnets are small networks connected directly to a firewall or other filtering device.
+
+- Secure open Wi-Fi: an unsecured, or open, wireless network is one that does not require a Wi-Fi Protected Access (WPA, WPA2 and WPA3) code for access. Organisations should use either WPA2 or the newer WPA3 standard for encryption. Employees who work remotely should also use this security standard and should never connect to an open network.
+
+- Administration passwords: These give access to the router and should be changed regularly to prevent hackers gaining access to the network through the router.
+
+- Router: These are used to connect devices to the Internet and to each other, as well as to create LANs. Routers may be vulnerable to unauthorised access from an attacker, such as through a rerouting attack, when the attacker manipulates router updates to cause traffic to flow to unauthorised destinations; or through a masquerade attack, when an attacker manipulates IP packets to falsify IP addresses.
+
+=====================================================================
+
+*** Test yourself ***
+
+Q1. What does BYOD mean?
+
+A1. bring your own device
+
+Q2. What does IDS mean?
+
+A2. intrusion detection system
+
+Q3. What does IPS mean?
+
+A3. intrusion prevention system
