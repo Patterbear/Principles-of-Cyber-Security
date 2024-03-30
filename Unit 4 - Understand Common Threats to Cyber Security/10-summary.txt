@@ -1,0 +1,24 @@
+=====================================================================
+Unit 4: Understand Common Threats to Cyber Security
+Lesson 10: Summary
+=====================================================================
+
+*** Summary ***
+
+In this section, we have learned:
+
+- common and emerging threats in cyber security
+
+- different types of malicious software
+
+- ways of identifying and removing malicious software
+
+- different types of physical threats to cyber security
+
+- threats from remote working, personal devices, removable devices, hardware and networking infrastructure.
+
+=====================================================================
+
+*** Well done! ***
+
+You have now completed this unit and can attempt your assessment.
