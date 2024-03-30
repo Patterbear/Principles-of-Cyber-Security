@@ -1,0 +1,20 @@
+=====================================================================
+Unit 4: Understand Common Threats to Cyber Security
+Lesson 5: The importance of perimeter access control
+=====================================================================
+
+Physical perimeter access control includes those systems and technologies that protect people and assets in a facility and its grounds by blocking unauthorised physical intrusions across the perimeter. 
+
+In cyber security, this may involve controlling access to an entire building, or to a single room, such as the server room. The goal is to prevent unauthorised access by people who could damage hardware or software, or steal information to use in setting up phishing or other types of attacks.
+
+Physical security perimeters are used to safeguard sensitive data and information systems. These can include fences, barriers, gates, electronic surveillance, physical authentication mechanisms, badges, fingerprint scanners, reception desks, and security patrols. 
+
+It can also include having backup systems in place to ensure that operations can continue if anything should happen.
+
+Security perimeters are often set up in layers. For example, it may be relatively easy to enter a building, but more checks are needed to enter different parts of the building, with the highest level of checks used in the most sensitive areas.
+
+Access control systems are used to make sure that those who are entering each layer are authorised to be there. 
+
+Physical security perimeters may include fences, cameras or CCTV, locked doors, and alarms; access control systems often include badges, sensors, alarms, passwords, fingerprint scanners, etc. 
+
+Essentially, it involves anything that is involved in the control of people, materials and vehicles through entrances and exits of a controlled area.
