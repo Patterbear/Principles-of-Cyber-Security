@@ -1,0 +1,50 @@
+=====================================================================
+Unit 4: Understand Common Threats to Cyber Security
+Lesson 9: Best practice to minimise physical threats to cyber security
+=====================================================================
+
+*** What is physical security and why it matters ***
+
+Gaining access to a property can provide criminals with the ability not only to steal physical items from the premises, but also to potentially infect computers with malware or access data through the IT infrastructure.
+
+Physical security includes any security measures that are taken to ensure that only authorised personnel have access to equipment and resources in an office or building. A well-designed physical security system protects the building, resources and equipment against theft, vandalism, natural disaster, sabotage, terrorist attack, cyber attack and other malicious acts.
+
+=====================================================================
+
+*** Practices to minimise physical threats ***
+
+Physical security becomes more important in case of critical systems and facilities, for example: server rooms, production bays, data centres, nuclear reactors, electricity power grids, etc.
+
+The following are examples of different system measures which can be used to protect against potential threats:
+
+- Access controls – Organisations need to have some way of controlling access to the premises. If the business is based at a small office with a single door for entry, a simple lock can be enough. But if there are many ways to gain entry, then more advanced methods are needed. This could include high-tech options such as finger-print scanning or a PIN-entry system.
+
+- Issue ID cards – One useful and effective security measure that all organisations should implement is providing ID cards for staff. It’s a simple step, but doing so ensures that anyone who wants to get access to an organisation’s building needs to show an ID card. When combined with a swipe system for access to the building or to different areas of the building, this adds another layer of security.
+
+- Car park security – The car park for a property is a surprisingly vulnerable area, and it is important that organisations put the proper safety precautions in place. Car parks can be used as an area to conduct surveillance of your property. If there is no access prevention, getaway vehicles can be parked right next to the building to allow criminals to escape in the event of a physical breach. There are a number of different steps that can be taken to make a car park more secure. These include installing a security barrier, having a key card system or using a guard.
+
+- Automatic lighting – Another great physical security feature that can make a big difference to a business is to add automatic lighting. Motion sensing lights will illuminate anyone who is not where they are supposed to be, making it harder for people to sneak around. Often the threat of being seen is more than enough to put off a criminal from attempting to gain access to an area.
+
+- Surveillance – This can be a strong deterrent against criminal activity. One common type of surveillance is CCTV. Another option is to hire a professional security firm to conduct patrols. This is expensive and is usually used by large organisations where the risk of a breach is worth the costs involved.
+
+- Create a security culture/human firewall – One of the most important things that a business can do for their physical security is to ensure that all staff take security seriously. If staff are aware of the need to keep an eye out for any suspicious activity and report it as soon as possible, they can be a very valuable line of defence in terms of surveillance. Provide regular training sessions to staff about the importance of good security practice and the things that they can be doing to help the business be more secure.
+
+- External barrier – This can include fences, walls, razor wire, etc. and provides a first line of defence against intruders.
+
+=====================================================================
+
+*** Did you know? - Fort Knox ***
+
+The saying “as secure as Fort Knox” implies that a place has much stronger protection than normal. So, how secure is Fort Knox? The United States Bullion Depository (the proper name of Fort Knox) is home to about half of the U.S. gold reserves, and has been called the most secure vault on the planet. 
+
+The complex is surrounded by a steel fence and the building is made of concrete-lined granite, reinforced with steel. While the U.S. Treasury won’t say what protective devices the building and underground vaults are equipped with, it will say that the door to the vault is made of steel and concrete and weighs more than 20 tons. No single person knows everything about how to get in. Instead, certain staff members know just one of several combinations, and they need to all be dialled separately to open the vaults. 
+
+Aside from armed guards, who practise their skills in an on-site gun range, the site also shares its home with 40,000 soldiers at the Fort Knox Army post. The building also has its own emergency power plant and water system.
+
+=====================================================================
+
+*** Test yourself ***
+
+Q1. Can you name one security system measure which can be used to protect against potential threats?
+
+A1. ID cards/car park security/automatic lighting/surveillance/human firewall/external barrier/security guard/access controls
