@@ -1,0 +1,46 @@
+=====================================================================
+Unit 4: Understand Common Threats to Cyber Security
+Lesson 4: Methods for removing malicious software from an infected system
+=====================================================================
+
+Every computer should have some form of anti-virus software installed. However, most anti-virus software is not used to detect malware. Computers should also have an anti-malware program to regularly scan, clean and protect them from potential Internet threats: viruses, spyware, trojans, bots, adware and worms.
+
+=====================================================================
+
+*** How to remove malware from your computer ***
+
+There are many types of software that will help you to clear an infected system –some is designed for home computers and others specialise in clearing servers and networks. 
+
+In general, clearing an infected system often involves the following:
+
+- Disconnect from the Internet – this will prevent more of your data from being sent to a malware server or the malware from spreading further
+
+- Enter safe mode – often referred to as safe boot, this is a way to start your computer so that it allows only the most necessary software and programs to load. This will prevent the malware from loading and make it easier to remove.
+
+- Check the activity monitor for malicious applications – this shows the processes that are running on your computer, and allows you to see how they affect your computer’s activity and performance. For example, you can see which applications are working the hardest – if you do not recognise the app, it may be malware.
+
+- Run a malware scanner – these can remove most standard infections. You should install and run security software which provides protection against existing and emerging malware.
+
+- Verify your browser’s homepage – malware can modify your web browser’s homepage to re-infect your computer.
+
+- Clear your browser’s cache – the cache is a temporary storage location on your computer where data is saved so your browser doesn’t need to download it each time. Clearing it can remove any malware that is still lurking.
+
+If all else fails, it may be necessary to entirely reinstall the operating system and all applications and programs from scratch. This is why it is vital that you always have an up-to-date backup on an external drive.
+
+=====================================================================
+
+*** Test yourself ***
+
+Q1. Can you name the software that removes most standard infections?
+
+A1.  malware scanner
+
+Q2. Can you match the two halves of the statements that outline a general approach to clearing an infected computer system?
+
+A2.
+	- Disconnect the PC -> from the Internet.
+	- Enter -> safe mode.
+	- Check the activity monitor -> for malicious applications.
+	- Run a -> malware scanner.
+	- Verify your -> browser’s homepage.
+	- Clear your -> browser’s cache.
