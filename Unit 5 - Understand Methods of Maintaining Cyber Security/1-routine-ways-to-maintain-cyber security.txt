@@ -1,0 +1,54 @@
+=====================================================================
+Unit 5: Understand Methods of Maintaining Cyber Security
+Lesson 1: Routine ways to maintain cyber security
+=====================================================================
+
+Every organisation is a potential victim of a cyber attack. All organisations have something of value that is worth something to others, even if that is simply money from ransomware. Organisations that do not take routine precautions will almost certainly experience some form of cyber attack.
+
+=====================================================================
+
+*** Common elements of routine cyber security ***
+
+The following are a few of the precautions that are routinely used. Not every organisation will use every one of these.
+
+- Boundary firewalls and Internet gateways – Establish network perimeter defences, such as web proxy, web filtering, content checking, and firewalls. These will help to detect and block executable downloads, block access to known malicious domains and prevent users’ computers from communicating directly with the Internet.
+
+- Malware protection – Set up and maintain malware software to detect and respond to known attacks. This could include installing security software and ad blockers, as well as restricting the use of personal email on work computers.
+
+- Patch management and software updates – Updating your software regularly with the latest version will ensure that new vulnerabilities and bugs are patched quickly, before they can be used by hackers.
+
+- Whitelisting and execution control – This is a security feature that allows you to create lists of trusted IP addresses or IP ranges from which your users can access your domains. It also prevents unknown software from being able to run or install itself.
+
+- Secure configuration – This restricts the functionality of every device, operating system and application so they cannot be used in an unauthorised way.
+
+- Password policy – Ensure that an appropriate password policy is in place and followed. This should include the use of secure passwords, not writing down passwords or keeping them near the computer, etc.
+
+- User access control – This includes limiting users’ execution permissions so that users only have permission to access certain files and folders, rather than every file and folder in the system.
+
+- Employee education – Make sure that every employee is fully trained in how to recognise and prevent cyber attacks. This should include a clear statement of what employees can and cannot do; procedures for handling a suspected data breach; encryption of all devices used for work, including BYOD devices; specifying the particular information and documents that should never leave the secure workplace; rules for online behaviour.
+
+- Back-ups – All data should be backed up regularly to an external drive or server, or to the cloud.
+
+- Policies and procedures – Have detailed and clear policies and procedures in place that set out what employees must and must not do and what to do should a cyber attack happen.
+
+=====================================================================
+
+*** Test yourself ***
+
+Q1. Can you match the common elements of routine cyber security with their brief descriptions?
+
+A1.
+	- Boundary firewalls and Internet gateways -> perimeter defences, such as web proxy, web filtering, content checking, and firewalls.
+	- Malware protection -> set up and maintain software to detect and respond to known attacks.
+	- Patch management and software updates -> update your software regularly to ensure that new vulnerabilities/bugs are patched quickly
+	- Whitelisting and execution control -> use lists of trusted IP addresses/IP ranges from which your users can access your domains.
+	- Secure configuration -> restrict the functionality of every device, operating system and application.
+
+Q2. Can you match the common elements of routine cyber security with their brief descriptions?
+
+A2.
+	- Password policy -> use of secure passwords, not writing down passwords or keeping them near the computer.
+	- User access control -> limiting users’ permissions so users only have permission to access certain files.
+	- Employee education -> every employee is fully trained in how to recognise and prevent cyber attacks.
+	- Back-ups -> all data should be backed up regularly to an external drive or server, or to the cloud.
+	- Policies and procedures -> these set out what employees must and must not do should a cyber attack happen.
