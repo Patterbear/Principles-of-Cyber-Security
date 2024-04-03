@@ -1,0 +1,38 @@
+=====================================================================
+Unit 5: Understand Methods of Maintaining Cyber Security
+Lesson 3: What is meant by penetration testing?
+=====================================================================
+
+A penetration test, also known as a pen test, is a simulated cyber attack against a computer system that checks for vulnerabilities that hackers can use. It is a way to test the security of an IT system by attempting to breach that system’s security, using the same tools and techniques a cyber attacker would use. 
+
+It can be thought of as a type of White Hat attack.
+
+Penetration tests are used to identify the amount of risk from software, hardware and social engineering vulnerabilities. In the UK, pen tests are often performed by qualified and experienced companies that have been certified under a particular certification scheme, such as CREST or the Cyber Scheme.
+
+There are different types of penetration testing, including:
+
+- Whitebox testing – In this case, all of the information about the target software, hardware or employees is shared with the testers.
+
+- Blackbox testing – In this test, no information is shared with the testers about the target. This type of test is more accurate at identifying the risks from outside the organisation, but can also mean that some vulnerabilities remain undiscovered.
+
+The following penetration tests can be run as either whitebox or blackbox tests:
+
+- Vulnerability identification – This is often used to test web applications. It gives feedback to web developers on coding practices to use to avoid any vulnerabilities that are found.
+
+- Scenario driven testing for vulnerabilities – In this case, the penetration testers explore a particular scenario to discover whether it leads to a vulnerability in your defences. Scenarios may include a lost laptop or an unauthorised device connected to the internal network, but there are many others. Organisations choose the scenarios they are most concerned about.
+
+- Scenario driven testing of detection and response capability – This type of test is also used with certain scenarios, such as a phishing attack, etc. But its aim is to find out how well the organisation can detect and respond to the vulnerability.
+
+=====================================================================
+
+*** Test yourself ***
+
+Q1. Can you give an alternative name for a penetration test?
+
+A1. pen test/white hat attack
+
+Q2. Can you match the penetration test with its brief description?
+
+A2.
+	- Whitebox testing -> all of the information about the target software, hardware or employees is shared.
+	- Blackbox testing -> no information is shared with the testers about the target.
