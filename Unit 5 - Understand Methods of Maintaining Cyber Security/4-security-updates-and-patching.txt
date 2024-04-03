@@ -1,0 +1,44 @@
+=====================================================================
+Unit 5: Understand Methods of Maintaining Cyber Security
+Lesson 4: Security updates and ‘patching’
+=====================================================================
+
+Security updates are issued regularly by the software developer (the company that makes the software). They may be issued for many reasons. 
+
+Often, security patches are included in software updates. Software updates can also include fixes for performance bugs, the addition of new features, compatibility fixes and may address any security issues that have been identified since the last update was deployed. Software vulnerabilities enable cybercriminals to access a person’s computer, allowing them to take control of the computer and access personal data, such as financial information and passwords. Updates sometimes run automatically in the background. Other times, updates come in the form of a free download. They may also be necessary for software to continue running when changes are made to the host operating system.
+
+=====================================================================
+
+*** Did you know? ***
+
+On the second Tuesday of each month (nicknamed Patch Tuesday) Microsoft usually releases a security update to protect customers against the most recent threats.
+
+Microsoft provides concurrent mainstream support and extended support periods for its operating systems after their release.
+
+During the five-year mainstream support period the OS will get regular updates including security improvements and design features. Once this is over the operating system heads into the extended support period, which means it doesn’t get new features, but will get security updates and fixes.
+
+=====================================================================
+
+*** Patching ***
+
+While a software update is designed to improve the performance of the software, a patch is a type of update that is designed to fix a particular security flaw, bug or vulnerability. The patch is a small piece of software that the software developer issues whenever a security flaw is uncovered. The patch covers the flaw, keeping hackers from further exploiting it. 
+
+It is very important that all computer users update their software with the latest patches, as a delay can allow hackers to access their system. For example, the WannaCry ransomware infected more than 200,000 computers and networks before a cyber security expert found a way to stop it. The software developer Microsoft had actually issued a patch for the flaw that the attackers used, but many organisations and users had not installed the patch, so their systems were exposed to the malware. 
+
+When cyber security experts or White Hat hackers discover a software flaw or bug, they alert the developer, and do not make the discovery public. This is to keep the flaw secret from malicious hackers who could take advantage of it to launch attacks. This also means that developers often release important patches before anyone knows about the problem. That’s why it’s very important to always update software on schedule – you could be eliminating a dangerous flaw.
+
+=====================================================================
+
+*** Test yourself ***
+
+Q1. What is the term used to describe a software update that is designed to fix a particular security flaw, bug or vulnerability?
+
+A1. patch
+
+Q2. Can you name an example of ransomware?
+
+A2. WannaCry
+
+Q3. What type of cyber security expert alerts the developer when they discover a software flaw or bug?
+
+A3. White hat hackers
