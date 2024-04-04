@@ -1,0 +1,70 @@
+=====================================================================
+Unit 5: Understand Methods of Maintaining Cyber Security
+Lesson 7: Methods of restricting user access
+=====================================================================
+
+*** Establish effective account management processes ***
+
+Have a system in place for managing user accounts, including keeping track of special account privileges; documenting user access permissions; and removing or disabling user accounts when no longer required. Unauthorised user accounts should be denied access to applications, computers and networks.
+
+=====================================================================
+
+*** Establish policies and standards for user authentication and access control ***
+
+A strong password and username policy should be developed that balances security and usability. Consider using two-factor authentication. This is a security system that requires two separate, distinct forms of identification in order to access something.
+
+The first factor is a password and the second includes either something you have or something you are – such as a text with a code sent to your smartphone, or biometrics using your fingerprint, face, or retina.
+
+=====================================================================
+
+*** Limit user privileges ***
+
+Use the principle of ‘least privilege’ – granting users the permissions to access only the systems, services and information that they need to fulfil their business role.
+
+=====================================================================
+
+*** Limit the number of privileged accounts ***
+
+Control the number of people who have administrative or highly privileged access. Accounts with a high level of privileges should not be used for high risk or everyday activities, for example web browsing and email. 
+
+Administrators should use normal accounts for standard business use.
+
+=====================================================================
+
+*** Monitor ***
+
+Monitor user activity through the use of logs. Activity logs from network devices should be sent to a dedicated accounting and audit system that is separated from the core network.
+
+=====================================================================
+
+*** Have training and education for employees ***
+
+All users should be aware of the policies on proper account usage and their personal responsibility for following security policies.
+
+=====================================================================
+
+*** Did you know? ***
+
+How Microsoft Windows stops standard users from accessing privileged accounts through UAC.
+
+User Account Control (UAC) is a feature added to Windows. It is designed to improve security by limiting application software to standard user privileges until an administrator authorises a change. 
+
+This way, only applications trusted by the user receive administrative privileges, which should keep malware from infecting the operating system. 
+
+In other words, applications that the user runs do not automatically have administrative privileges unless they are approved beforehand or the user explicitly authorises it.
+
+=====================================================================
+
+*** Test yourself ***
+
+Q1. What is the first factor in user authentication and access control?
+
+A1. A strong password and username.
+
+Q2. What is the term used to describe an access control that is stronger than first factor user authentication?
+
+A2. two-factor authentication
+
+Q3. Which of the following are common two-factor controls?
+
+A3. a code sent to your smartphone, biometrics using your fingerprint, face, or retina
