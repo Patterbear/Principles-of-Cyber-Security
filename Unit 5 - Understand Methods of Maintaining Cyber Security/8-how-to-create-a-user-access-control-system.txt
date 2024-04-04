@@ -1,0 +1,73 @@
+=====================================================================
+Unit 5: Understand Methods of Maintaining Cyber Security
+Lesson 8: How to create a user access control system
+=====================================================================
+
+To protect the privacy and integrity of information stored on a computer, it is important to control who can access the information.
+
+Computer access is managed through user accounts. Each individual user of a computer signs in with their own account. Each user will also be assigned their own username and password. Usernames will often follow a set pattern. For example, firstname.last name@companyname.com. Assigning usernames and passwords is usually the first step in creating a user access control system.
+
+There are different levels of user account, such as administrator or user. The access level depends on the rights or permissions that are assigned to that account.
+
+The system actions that a user can perform are governed by the type of account they sign in with. An administrator account has higher-level permissions than a standard user account, which means that an administrator account owner can perform tasks on a computer that a standard user account owner cannot.
+
+Standard user account credentials allow a user to do things that affect only their own account, including:
+
+- change or remove the password
+
+- change the user account picture
+
+- change the theme and desktop settings
+
+- view files stored in their personal folders and files in the public folders.
+
+
+Administrator account credentials are necessary to do things such as:
+
+- create, change, and delete accounts
+
+- change settings that affect all of the network’s users
+
+- change security-related settings
+
+- install and remove apps
+
+- access system files and files in other user networks.
+
+
+Tasks that require administrator permission are indicated in dialog boxes by a Windows security icon.
+
+One of the key reasons for setting up an access control system is to restrict the files and folders a user can access and what they can do with the files. The Windows platform uses NTFS permissions to set up this file access.
+
+NTFS permissions allow detailed control over the files and folders on the system. You can set NTFS permissions on a per file basis, as well as a per folder basis.
+
+To set NTFS permission on a file, you should right click and go to properties then go to the security tab.
+
+To edit the NTFS permissions for a User or Group, click on the edit button.
+
+As you can see, there are a number of NTFS permissions, so let’s review them individually. First, let’s look at setting NTFS permissions on a file.
+
+- Full Control allows you to read, write, modify, execute, change attributes, permissions, and take ownership of the file.
+
+- Modify allows you to read, write, modify, execute, and change the file’s attributes.
+
+- Read and Execute will allow you to display the file’s data, attributes, owner, and permissions, and run the file if it’s a program.
+
+- Read will allow you to open the file, view its attributes, owner, and permissions.
+
+- Write will allow you to write data to the file, append to the file, and read or change its attributes.
+
+
+NTFS permissions for folders have slightly different options (adapted from How to Geek).
+
+- Full Control allows you to read, write, modify, and execute files in the folder, change attributes, permissions, and take ownership of the folder or files within.
+
+- Modify allows you to read, write, modify, and execute files in the folder, and change attributes of the folder or files within.
+
+- Read & Execute will allow you to display the folder’s contents and display the data, attributes, owner, and permissions for files within the folder, and run files within the folder.
+
+- List Folder Contents will allow you to display the folder’s contents and display the data, attributes, owner, and permissions for files within the folder.
+
+- Read will allow you to display the file or folder’s data, attributes, owner, and permissions.
+
+- Write will allow you to write data to the file or folder’s data and read or change its attributes.
