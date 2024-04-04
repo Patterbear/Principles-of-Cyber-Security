@@ -1,0 +1,40 @@
+=====================================================================
+Unit 5: Understand Methods of Maintaining Cyber Security
+Lesson 5: The importance of keeping accurate and up-to-date cyber security information and records
+=====================================================================
+
+We have already seen the risks involved with not keeping software updated and regularly patched. Cyber security is a constant cat and mouse game between organisations and attackers, with new vulnerabilities being discovered and closed all the time. 
+
+This makes it very important to keep track of all maintenance and updates, to make sure that your organisation is always up-to-date with the latest fixes. This will also minimise any disruption to the business. 
+
+For example, in 2017, the personal data of 147 million people was stolen from the US company Equifax. The cause of the breach was an application that hadn’t been updated, allowing hackers to access the data. 
+
+However, a patch for this vulnerability was released months before the attack happened. This means that the attack could have been avoided by keeping up-to-date records to inform the IT managers that an update was needed.
+
+Log management is another important record-keeping tool. Logs are the files that detail all the events that occur within a company’s systems and networks, including servers, firewalls, and other IT equipment. 
+
+Each device, system, network, and application is called a log source. The event logs can show deviations from expected activity, alerting you to potential software, hardware, and security issues.
+
+Logs provide data about a wide array of activities across the system, including log in failures, password changes, denial of service attacks, file name changes, exported data, new user logins, malware detection, etc. Tracking this information can help alert you to an unauthorised user or download, or a data breach.
+
+Any systems connected to the Internet all require active monitoring. Any seriously suspicious behaviour or critical events will generate an alert that can then be checked and acted on by IT teams.
+
+The logs will provide clear audit trails when investigating any incident and help identify where the attacker accessed the systems and outcome.
+
+Maintenance records are also vital to keep systems and software safe.
+
+The maintenance records need to be continually kept up to date so that IT professionals can ensure all the systems have the latest security patches installed. Records are used to identify which machines have which hardware and software installed on them so that when a vulnerability is identified, this can be addressed quickly. 
+
+When IT teams are not sure of this key information, systems can be left vulnerable for a considerable amount of time, which gives hackers time to access the system.
+
+=====================================================================
+
+*** Test yourself ***
+
+Q1. What is the name of the record system used to show/monitor deviations from expected activity?
+
+A1. event logs
+
+Q2. Can you name one log source recorded in an event log?
+
+A2. device/system/network/application/server/firewall
