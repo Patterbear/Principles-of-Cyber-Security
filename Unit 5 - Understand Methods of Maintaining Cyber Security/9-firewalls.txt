@@ -1,0 +1,67 @@
+=====================================================================
+Unit 5: Understand Methods of Maintaining Cyber Security
+Lesson 9: Firewalls
+=====================================================================
+
+A firewall is a network security device that monitors incoming and outgoing network traffic and allows or blocks specific traffic based on a defined set of security rules. Firewalls establish a barrier between secured and unsecured networks, such as between a company server and the Internet. By blocking access to unsecured sites, a firewall can prevent malware from being accidentally downloaded.
+
+In protecting private information, a firewall is considered a first line of defence; firewalls are generally designed to protect network traffic and connections, and therefore do not attempt to authenticate individual users when determining who can access a particular computer or network.
+
+=====================================================================
+
+*** Software firewalls ***
+
+Software, or host, firewalls include any type of firewall that is installed on a computer or server rather than a separate piece of hardware. The big benefit of a software firewall is that it’s highly useful for creating customised rules for what can be accessed.
+
+=====================================================================
+
+*** Hardware firewalls ***
+
+Hardware, or network, firewalls act in a manner similar to a network router to intercept data packets and traffic requests before they’re connected to the network’s servers. 
+
+Physical firewalls like this excel at perimeter security by making sure malicious traffic from outside the network is intercepted before the company’s network endpoints are exposed to risk.
+
+The major weakness of a hardware-based firewall, however, is that it is often easy for insider attacks to bypass them. Also, the actual capabilities of a hardware firewall may vary depending on the manufacturer – some may have a more limited capacity to handle simultaneous connections than others, for example, and this can slow down network access.
+
+=====================================================================
+
+*** Some types of firewall ***
+
+Most firewalls use one or more of the following methods to control traffic flowing in and out of the network:
+
+- Packet filtering – Packets are small chunks of data. The firewall software analyses the packets based on a particular set of filters. Packets that meet the criteria are sent through and those that don’t are discarded.
+
+- Proxy service – This is an early type of firewall that acts as a gateway between networks or between an internal and external network. Information requested from the Internet is retrieved by the firewall and then sent to the requesting system.
+
+- Stateful inspection – Instead of examining the contents of each packet, this type of firewall compares key parts of the packet to a database of trusted information. If the packet matches the trusted comparison, the information is allowed through. Otherwise it is discarded.
+
+- Application Gateway – This is a security mechanism that is applied to specific applications, such as Telnet and FTP servers. It secures the server but can slowdown performance.
+
+- Next Generation Firewall (NGFW) – A next generation firewall is a newer class of firewall. It filters Internet and network traffic based on the type of traffic and uses particular ports. NGFWs feature the basic functionalities of a standard firewall but can provide deeper and smarter inspection.
+
+=====================================================================
+
+*** Did you know? ***
+
+In Windows and macOS, firewalls are built into the operating system.
+
+=====================================================================
+
+*** Test yourself ***
+
+Q1. Can name one of the two main types of firewall?
+
+A1. software/hardware
+
+Q2. What does NGFW mean?
+
+A2. next generation firewall
+
+Q3. Can match the types of firewall methods below to their brief descriptions?
+
+A3.
+	- Packet filtering -> the firewall software analyses the packets based on a particular set of filters.
+	- Proxy service -> a firewall that acts as a gateway between networks or an internal and external network.
+	- Stateful inspection -> this firewall compares key parts of the packet to a database of trusted information.
+	- Application gateway -> a security mechanism that's applied to specific applications, such as Telnet & FTP servers
+	- Next generation firewall (NGFW) -> filters Internet & network traffic based on the type of traffic and uses particular ports.
