@@ -1,0 +1,10 @@
+=====================================================================
+Unit 5: Understand Methods of Maintaining Cyber Security
+Lesson 6: User access control
+=====================================================================
+
+Access control is the way an organisation decides who should be allowed to see different types of data. For example, the company CEO may be able to see all of the data in the entire company; a division manager may be able to see the data for their division but not other divisions; an entry-level worker may be able to see only the data for their particular team. Each of these people has a different level of access.
+
+The access control system verifies the identity of users and determines whether a particular user should be given access to particular data. Without appropriate access control, there is no data security. This is because giving people access to data they do not need can increase the chances of a data breach or data loss. It makes it easier for hackers to take advantage of uncontrolled administrative privileges to gain access. Failure to manage user access control can also lead to employees unknowingly or deliberately accessing and misusing data they shouldn’t be authorised to see.
+
+The granting of high-level administration privileges should be carefully controlled and managed. This principle of only giving people access to the data they need is sometimes referred to as ‘least privilege’.
