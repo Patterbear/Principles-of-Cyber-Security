@@ -1,0 +1,32 @@
+=====================================================================
+Unit 5: Understand Methods of Maintaining Cyber Security
+Lesson 11: Advantages and disadvantages of a firewall
+=====================================================================
+
+*** Advantages of using a firewall ***
+
+The main advantage of having a firewall in place is that it provides an additional line of defence against attacks.
+
+The main advantages of a firewall are that they:
+
+- Monitor traffic – a firewall monitors all of the traffic entering your computer network.
+
+- Detect malware – having a firewall can help keep malware out of your network.
+
+- Control access – firewalls have an access policy as well. You can either use a default access policy or customise the settings to match your needs.
+
+=====================================================================
+
+*** Disadvantages of using a firewall ***
+
+The main disadvantage is that they often require trained professionals to support their configuration and maintenance. If a firewall is not used properly, it could give a false impression that the network is safe. 
+
+They also often cannot protect against an insider attack. Firewalls cannot protect against viruses once they are in the network, such as Trojans, worms and spyware that spread through flash drives and portable hard drives. They may restrict authorised users from accessing valuable services. They do not protect against backdoor attacks.
+
+=====================================================================
+
+*** Test yourself ***
+
+Q1. Can you name one advantage of a firewall?
+
+A1. monitor traffic/detect malware/control access
