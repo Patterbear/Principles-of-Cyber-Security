@@ -1,0 +1,28 @@
+=====================================================================
+Unit 5: Understand Methods of Maintaining Cyber Security
+Lesson 12: What is network traffic?
+=====================================================================
+
+Network traffic is the amount of data that moves across a network at any point in time.
+
+Examples of network traffic could be:
+
+- uploading a file to Dropbox
+
+- carrying out a webinar over Microsoft Teams or Zoom
+
+- browsing the Internet
+
+- downloading a file from a website
+
+- sending and receiving emails
+
+- uploading photos to Facebook.
+
+=====================================================================
+
+*** Network traffic monitoring ***
+
+Network traffic monitoring, or network flow monitoring, is a process for tracking what devices are connected to a network, what kinds of data the devices are accessing, and how much bandwidth each device is using. It is essential for network security teams to detect zero-day threats, attacks, and other anomalies that need to be addressed.
+
+Large companies are where network traffic monitoring tools are most often used. At this size, businesses can have hundreds or even thousands of devices joined to the same corporate network. It’s just too difficult to watch that many devices without help, and that’s where network monitoring tools come in. With bandwidth monitoring, automatic alerting and report generation, network administrators responsible for ensuring the network is running smoothly can stay on top of all the traffic on a company’s intranet with relative ease.
