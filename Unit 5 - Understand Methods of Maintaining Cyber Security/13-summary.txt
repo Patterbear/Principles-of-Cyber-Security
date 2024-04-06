@@ -1,0 +1,24 @@
+=====================================================================
+Unit 5: Understand Methods of Maintaining Cyber Security
+Lesson 13: Summary
+=====================================================================
+
+*** Summary ***
+
+In this section, we have learned:
+
+- different routine ways of maintaining cyber security, including vulnerability testing and penetration testing
+
+- the importance of security updates and patches
+
+- user access control and methods of restricting user access
+
+- how to set up a user access control system
+
+- the use of firewalls.
+
+=====================================================================
+
+*** Well done! ***
+
+You have now completed this unit and can attempt your assessment.
