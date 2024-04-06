@@ -1,0 +1,42 @@
+=====================================================================
+Unit 5: Understand Methods of Maintaining Cyber Security
+Lesson 10: Functions of a firewall
+=====================================================================
+
+An efficient firewall monitors both incoming and outgoing traffic. It also makes your computer ‘invisible’ when you’re online, helping prevent attempted intrusions in the first place. Most firewalls are capable of continuously updating the list of malicious applications. This way, your computer’s protection is always up-to-date. 
+
+A firewall has a number of security functions, including:
+
+In packet filtering, the firewall acts as a type of gate keeper that determines what can pass through, based on the network’s rules.
+
+- Acting as an application proxy, or application level gateway. In this case, the firewall can identify and stop malware.
+
+- Preventing the loss of valuable information – for example, a firewall can be installed to manage File Transfer Protocol (FTP), so that users cannot accidentally send confidential files or data to anyone outside the network.
+
+- Record User Activity – every time a user accesses data, they will go through a firewall, which then records this in the log files.
+
+- Modifying incoming data package. Also known as NAT (Network Address Translation), this is a way to map multiple local private addresses to a public one before transferring the information. Organisations and home routers that want multiple devices to employ a single IP address use NAT. Using NAT allows information from a computer to the Internet to make it back to the computer using the router’s public address, not the computer’s private one.
+A firewall is a network security device that monitors incoming and outgoing network traffic and allows or blocks specific traffic based on a defined set of security rules. Firewalls establish a barrier between secured and unsecured networks, such as between a company server and the Internet. By blocking access to unsecured sites, a firewall can prevent malware from being accidentally downloaded.
+
+In protecting private information, a firewall is considered a first line of defence; firewalls are generally designed to protect network traffic and connections, and therefore do not attempt to authenticate individual users when determining who can access a particular computer or network.
+
+=====================================================================
+
+*** Test yourself ***
+
+Q1. What does FTP stand for?
+
+A1. file transfer protocol
+
+Q2. What does NAT stand for?
+
+A2. network address translation
+
+Q3. Can you match the firewall security functions with their brief descriptions?
+
+A3.
+	- Packet filtering -> the firewall acts as a type of gate keeper that determines what can pass through.
+	- Application proxy/application level gateway -> the firewall can identify and stop malware.
+	- Preventing the loss of valuable information -> the firewall can manage FTP, so that users cannot accidentally send confidential files.
+	- Record user activity -> every time a user accesses data, the firewall can record this in the log files.
+	- Modifying incoming data package, also known as network address translation (NAT) -> a way to map multiple local private addresses to a public one before transferring info.
