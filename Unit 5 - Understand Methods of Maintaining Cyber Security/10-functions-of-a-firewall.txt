@@ -16,9 +16,6 @@ In packet filtering, the firewall acts as a type of gate keeper that determines 
 - Record User Activity – every time a user accesses data, they will go through a firewall, which then records this in the log files.
 
 - Modifying incoming data package. Also known as NAT (Network Address Translation), this is a way to map multiple local private addresses to a public one before transferring the information. Organisations and home routers that want multiple devices to employ a single IP address use NAT. Using NAT allows information from a computer to the Internet to make it back to the computer using the router’s public address, not the computer’s private one.
-A firewall is a network security device that monitors incoming and outgoing network traffic and allows or blocks specific traffic based on a defined set of security rules. Firewalls establish a barrier between secured and unsecured networks, such as between a company server and the Internet. By blocking access to unsecured sites, a firewall can prevent malware from being accidentally downloaded.
-
-In protecting private information, a firewall is considered a first line of defence; firewalls are generally designed to protect network traffic and connections, and therefore do not attempt to authenticate individual users when determining who can access a particular computer or network.
 
 =====================================================================
 
