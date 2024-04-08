@@ -1,0 +1,86 @@
+=====================================================================
+Unit 6: Understand Working with Others in Cyber Security
+Lesson 1: Team dynamics
+=====================================================================
+
+Team dynamics describes the behaviour and relationships between the people in a group. This could include how they interact, communicate and cooperate with each other. Teams that are able to do these things well can often accomplish more.
+
+Team dynamics involves both psychology (for example, how well do people with different personalities work together) and practical issues, such as what types of written or verbal communication are most effective.
+
+Team dynamics can also be impacted by company culture and structure, and by the senior management’s leadership style, but the strongest influences often come from within the group itself.
+
+A group with a positive dynamic and attitude to teamwork is often easy to identify. Team members trust one another, they work towards a group goal or decision, and they help each other to make things happen.
+
+Recent research has also shown that when a team has a positive dynamic, its members are twice as creative as an average group.
+
+In a team with poor group dynamics, people’s behaviour may disrupt work. Because of this, the group may not come to any final decision, may be inefficient or unproductive, and they might make poor choices because group members did not work together.
+
+=====================================================================
+
+*** Some causes of poor team dynamics ***
+
+Group leaders and team members can contribute to a negative group dynamic. 
+
+Some of the ways in which this can occur are:
+
+- Weak leadership: When a team lacks a strong leader, more dominant members can compete to take charge. This can lead to a lack of direction, infighting, or a focus on the wrong priorities.
+
+- Too much deference to authority: This can happen when people want to be seen to agree with a leader, and therefore hold back from expressing their own opinions.
+
+- Blocking: This happens when team members behave in a way that disrupts the focus of the group. 
+
+	Blocking behaviour includes:
+
+	- being aggressive, disagreeable or inappropriately outspoken
+	- being highly critical of others’ ideas
+	- not participating in the discussion
+	- being boastful or dominating the session
+	- using humour at inappropriate times.
+
+
+- Free riding: Some group members take it easy, and leave their colleagues to do all the work. Free riders may work hard on their own, but limit their contributions in group situations; this is also known as “social loafing.”
+
+- Groupthink: This happens when people place a desire for agreeing above their desire to reach the right decision. This prevents alternative solutions from being fully explored.
+
+- Evaluation apprehension: This happens when people feel that they are being judged very harshly by other group members, and they hold back their opinions as a result.
+
+- Micromanagement: When team leaders or managers make all the decisions for the group, causing team members to stop putting in effort as they feel nothing they do will have any influence.
+
+=====================================================================
+
+*** Some strategies for strengthening group dynamics ***
+
+- know your team
+
+- tackle problems quickly with good feedback
+
+- define clear roles and responsibilities
+
+- break down barriers
+
+- focus on communication
+
+- pay attention.
+
+=====================================================================
+
+*** Team dynamics in a formal setting compared to an informal setting ***
+
+In a formal group, the relationship between the members is very professional. Formal groups tend to have stated goals, timelines for achieving these goals and a clear and defined plan for success. For example, a team may be set up to identify future market opportunities. This will be done through a planned process that involves assigned roles and duties. Formal teams may work very efficiently, but there may be fewer opportunities for creativity and to introduce new ideas.
+
+Informal groups tend to be less planned. The lack of formal structure may mean that personalities play a larger part in how work is accomplished. Informal groups may be very creative and innovative, but can sometimes fail to make progress because it may be difficult for them to make decisions.
+
+=====================================================================
+
+*** Test yourself ***
+
+Q1. Can you match each negative group dynamic term to its correct brief description?
+
+A1.
+	- weak leadership -> when a team lacks a strong leader, and more dominant members compete to take charge
+	- blocking -> when team members behave in a way that disrupts the focus of the group
+	- groupthink -> when people place a desire for agreeing above their desire to reach the right decision
+	- micromanagement -> when team leaders or managers make all the decisions for the group
+	- too much deference to authority -> when people want to be seen to agree with a leader
+	- evaluation apprehension -> when people feel that they are being judged very harshly by other group members
+	- free riding -> when some group members take it easy, and leave their colleagues to do all the work
