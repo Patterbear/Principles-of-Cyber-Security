@@ -1,6 +1,6 @@
 =====================================================================
 Unit 6: Understand Working with Others in Cyber Security
-11: The type of information that may be included in written communication
+Lesson 11: The type of information that may be included in written communication
 =====================================================================
 
 *** ​Vulnerability reports ***
