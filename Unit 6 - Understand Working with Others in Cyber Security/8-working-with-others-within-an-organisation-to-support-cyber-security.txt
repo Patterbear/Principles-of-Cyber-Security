@@ -1,0 +1,16 @@
+=====================================================================
+Unit 6: Understand Working with Others in Cyber Security
+Lesson 8: Working with others within an organisation to support cyber security
+=====================================================================
+
+Effective cyber security requires that every individual, and every part of the organisation, actively participates. 
+
+Effective IT departments can establish excellent policies and processes. But it takes only one mistake to give a cybercriminal the opening needed to cause a potentially disastrous breach. 
+
+Clicking on links in phishing emails, opening attachments from unknown senders, using weak passwords – these are just some examples of how individual team members’ actions can create vulnerabilities.
+
+Educating employees and then regularly reviewing their individual responsibility can go a long way towards reducing the organisation’s risk.
+
+True cybersecurity teamwork requires that every individual within the organisation be responsible for ensuring they understand and follow the procedures set out by the cybersecurity team. All individuals and all groups need to work together as a team. This includes not just working with the members of your team, but also with other teams, sections or departments. In order to avoid problems when working with other teams, it will be important for you to find different ways of communicating, to suit different people. For example, you may need to simplify technical information for some people.
+
+Teamwork and communication can ensure cyber threats are identified quickly and potential issues can be acted upon.
