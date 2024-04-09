@@ -1,0 +1,110 @@
+=====================================================================
+Unit 6: Understand Working with Others in Cyber Security
+Lesson 12: The elements that support effective written communications
+=====================================================================
+
+While written communication skills share many of the same features as verbal communication skills, there are some important differences. Where verbal communication uses body language and tone of voice to express meaning and tone, written communication relies on grammar, punctuation and word choice. Developing effective written communication skills requires practise and attention to detail.
+
+In professional settings, great written communication skills are made up of a number of key elements. 
+
+These include:
+
+- having a clear purpose
+
+- having a clear message
+
+- information should be accurate
+
+- the correct use of spelling, grammar and punctuation
+
+- layout (use of headings, section numbers, bullet points etc.)
+
+- an attention to detail
+
+- using the right tone of voice for the intended audience.
+
+=====================================================================
+
+*** Clear purpose ***
+
+Having a clear purpose helps your reader understand what you are saying or, at least, understand enough to know what questions they need to ask for further clarification. Writing in simple language and using shorter sentences can convey information with clarity.
+
+Example: “We are implementing a new email policy to ensure that all employees can confidently rely on our email systems. See the details of the new policy below. If you have any questions, you may direct them to the head of IT.”
+
+In this example, the writer sets out the goal of the message right away, then mentions the reason for the policy change and provides simple instructions to follow for further clarification.
+
+=====================================================================
+
+*** Clear message ***
+
+It is important that your audience can easily understand what you are saying. Make sure that your writing does not contain a lot of ambiguous or confusing statements and that it is clear what you are saying or asking for. One way to do this is to keep sentences and paragraphs short, and to use bullet points.
+
+=====================================================================
+
+*** Accuracy ***
+
+This is especially important in cyber security, where you may be dealing with very important or complicated issues that can have legal consequences. Check your statements for accuracy and make sure that any opinions are clearly labelled as opinions (for example, by writing, “In my opinion…”). It is also easier to be accurate if you keep your sentences short and clear. Try to avoid embellishing factual statements with too much jargon.
+
+=====================================================================
+
+*** Attention to detail ***
+
+This is vital in every aspect of cyber security, including written communications. In your reports, break problems down into smaller components and write about these individually. Attention to detail also includes elements such as making sure you have checked your spelling, double-checking any facts and figures used, and addressing your writing to the correct audience. It is very easy to get into trouble by sending emails to the wrong address, or by hitting “reply all”.
+
+=====================================================================
+
+*** Correct use of spelling, grammar and punctuation ***
+
+Don’t assume that a spellcheck has caught every error – always read over your written communications before you send them. For longer or formal reports, it can also be helpful to have a colleague look over it and make sure it reads well. Sloppy spelling, grammar and punctuation can make you look unprofessional and change the meaning of your words to something you have not intended.
+
+=====================================================================
+
+*** Tone of voice ***
+
+This refers to the language that you use, the writer’s attitude toward the reader and the subject of the message.
+
+When writing, it is important to adjust your tone according to the circumstances. For example, in more formal types of communication, you need to know when to be direct, assertive, conversational, encouraging or apologetic, depending on the situation.
+
+To set the right tone for your work-related writing, you should first ask yourself:
+
+- What is the purpose of this document? Why am I writing it?
+- Who is my reader, and what do they need to learn from my writing?
+
+For most business messages, it is safest to use a more formal tone, a tone that is confident, courteous, and sincere. Your writing should always use non-discriminatory language, and write at an appropriate level of difficulty for the audience.
+
+Some general guidelines to keep in mind when considering what kind of tone to use include:
+
+- be confident
+- be courteous and sincere
+- use appropriate emphasis and subordination
+- use non-discriminatory language (for example, don’t use words like ‘man made’ or assume your reader is a man)
+- stress the benefits for the reader
+- write at an appropriate level of difficulty.
+
+=====================================================================
+
+*** Layout ***
+
+This is most important when you are writing longer documents. A huge mass of text can be very off-putting to readers. In order to engage readers and keep their interest, break up your text with headings and sub-heading, section numbers, bullet points and other organising features. 
+
+Make sure you choose a font and size that is simple and easy to read. Overly ornate fonts or very large font sizes do not look professional. When in doubt, keep it simple and use frequent headings and subheadings to organise your work.
+
+=====================================================================
+
+*** Did you know? - Small errors, big payout ***
+
+Even small errors can have big consequences. In 2014, three truck drivers sued their employer for four years’ worth of overtime pay, based on a misplaced comma. The law involved required time-and-a-half pay for each hour worked after 40 hours, but it set out exemptions for: The canning, processing, preserving, freezing, drying, marketing, storing, packing for shipment or distribution of:
+
+- Agricultural produce
+- Meat and fish products
+- Perishable foods.
+
+The problem was that it was not clear what followed the last comma in the first sentence: “packing for shipment or distribution of.” A court ruled that it was not clear whether the law exempted just the distribution of the three categories, or if it exempted packing for the shipment or distribution of those categories. Had there been a comma after “shipment,” the meaning would have been clear. The missing comma cost the company $5 million in overtime pay. Source: The New York Times.
+
+=====================================================================
+
+*** Test yourself ***
+
+Q1. Can you name one of the elements that supports effective communication?
+
+A1. clear purpose/clear message/accuracy/attention to detail/tone of voice/layout/spelling/grammar/punctuation
