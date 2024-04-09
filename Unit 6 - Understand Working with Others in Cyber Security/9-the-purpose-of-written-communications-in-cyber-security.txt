@@ -1,0 +1,20 @@
+=====================================================================
+Unit 6: Understand Working with Others in Cyber Security
+Lesson 9: The purpose of written communications in cyber security
+=====================================================================
+
+As a cybercrime specialist, writing reports is an important part of your role. These may be viewed by your manager or by clients, and may even be used by the police, legal authorities, and perhaps even as evidence in a court of law, depending on the circumstance. Therefore, it is important that they are written clearly, efficiently and professionally. 
+
+Communicating effectively in writing is essential in the IT industry. Within cyber security, there are numerous different types of written communication used. It is vitally important that the written communication is of a high standard, clear, detailed and fit for purpose.
+
+Common types of written communications include a wide range of reports and fault logs. 
+
+Reports specific to the cyber security profession include:
+
+- vulnerability reports
+
+- penetration testing reports
+
+- incident reports
+
+- internal policy documents specific to to cyber security
