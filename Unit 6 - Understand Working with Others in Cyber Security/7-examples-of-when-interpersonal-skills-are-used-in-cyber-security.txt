@@ -1,0 +1,64 @@
+=====================================================================
+Unit 6: Understand Working with Others in Cyber Security
+Lesson 7: Examples of when interpersonal skills are used in cyber security
+=====================================================================
+
+*** Collaboration ***
+
+Solving security problems doesn’t happen in a vacuum, and it is likely that you won’t always have all the answers. There will be many situations, such as an urgent malware attack or the need to develop an entire security system, when you will need to work with others in a team. 
+
+For example, the problem or task may be too large for one person to manage alone, or you may not have all the skills needed to tackle it. In this case, you will need to be able to collaborate with others and work in a team to solve the problem.
+
+=====================================================================
+
+*** Questioning ***
+
+The field of cyber security is always changing, as new threats and new solutions come along. This means that you will always be learning new things in your work. It is important to remember that you may not have all the answers, and you should be willing to ask questions and seek advice from those with more experience. 
+
+The same is true for helping others by giving information. As an IT expert, clients and co-workers will look to you for help and information. A willingness to help others is an important interpersonal skill.
+
+=====================================================================
+
+*** A detail-oriented work ethic ***
+
+Steve Jobs once said, “Details matter; it’s worth waiting to get it right.” He once left an urgent voicemail on a Sunday morning for Vic Gundotra, Google senior vice president. The second O in Google’s logo on the iPhone was the incorrect shade of yellow, and Jobs wanted it fixed immediately.
+
+In cybersecurity, the wrong logo colour may not be your responsibility, but many other small details might be. You will need to be detail-oriented to find the root of a data breach or analyse thousands of logs after an attack. Sometimes, you will have to do these things while working fast under pressure.
+
+=====================================================================
+
+*** Listening ***
+
+In cyber security, listening is an important part of paying attention. For example, using active listening can help you to understand why someone may be likely to click on a link in an email, and can help you to analyse problems and search for solutions.
+
+=====================================================================
+
+*** Giving information ***
+
+Technology is always changing, and cybercriminals are always adapting and coming up with new ways of breaking into systems. Because of this, as a cyber security expert, it is very important that you are always learning new things. 
+
+There will be many times when you will rely on someone else to give you information, and so it is very important that you are also willing to give out information that can help others.
+
+=====================================================================
+
+*** Respecting others’ opinions and views ***
+
+In cyber security, you never know where a good solution to a problem will come from. So, it is important to always listen to and respect the opinions of others.
+
+=====================================================================
+
+*** Giving and receiving feedback ***
+
+This is an excellent way to learn what areas you need to learn more and to help others to improve their knowledge as well. As we said above, cyber security professionals are always learning, so it is important for them to be aware of what they do not know.
+
+=====================================================================
+
+*** Clarifying ***
+
+Any time you are working in a technical field like cyber security, there will be times when you will need clarification or to have something explained in more detail. The same is true for those you work with. Many of your colleagues will not be knowledgeable about technical subjects, so you will need to clarify things for them so they can understand.
+
+=====================================================================
+
+*** Putting across your own views clearly and appropriately ***
+
+You will often be working with managers, clients and colleagues. This makes it important to put across your own views in a way that is appropriate and which other people can understand – no matter what their level of technical knowledge and experience. One way to do this is to always treat others with respect.
