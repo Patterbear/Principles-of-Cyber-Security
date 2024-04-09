@@ -32,23 +32,23 @@ In an IT role, you will have a wide range of audiences and will need to adapt yo
 Typical audiences could be:
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-| * Audience *								| * Language *							| * Level of IT language *
+| * Audience *	                                                        | * Language *	                                                | * Level of IT language *
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-| Colleagues in your IT department			| Usually informal						| You can use technical language.
+| Colleagues in your IT department                      | Usually informal                                            | You can use technical language.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-| Colleagues in other departments			| Informal/formal depending on reason	| Use limited jargon and offer clear explanations.
+| Colleagues in other departments                       | Informal/formal depending on reason        | Use limited jargon and offer clear explanations.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-| Line managers							| Formal								| This will vary by manager, but try to keep language clear and concise.
+| Line managers                                                     | Formal                                                           | This will vary by manager, but try to keep language clear and concise.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-| Clients									| Formal								| Use clear and concise explanation, but technical terms are usually ok.
+| Clients                                                                  | Formal                                                           | Use clear and concise explanation, but technical terms are usually ok.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-| Suppliers								| Formal								| Technical terms and jargon are fine and often expected.
+| Suppliers                                                              | Formal                                                           | Technical terms and jargon are fine and often expected.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-| Government bodies/agencies				| Formal								| This varies by agency, do not assume a high level of knowledge and check first.
+| Government bodies/agencies                             | Formal                                                           | This varies by agency, do not assume a high level of knowledge and check first.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-| Other IT professionals in other organisations	| Informal/formal depending on reason	| Technical language and jargon is expected.
+| Other IT professionals in other organisations    | Informal/formal depending on reason        | Technical language and jargon is expected.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-| Visitors to the organisation					| Formal								| Explain terms clearly and simply.
+| Visitors to the organisation                                 | Formal                                                           | Explain terms clearly and simply.
 
 =====================================================================
 
