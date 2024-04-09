@@ -1,0 +1,44 @@
+=====================================================================
+Unit 6: Understand Working with Others in Cyber Security
+11: The type of information that may be included in written communication
+=====================================================================
+
+*** ​Vulnerability reports ***
+
+The purpose of a vulnerability assessment is to review security weaknesses in an information system. It evaluates if the system is susceptible to any known vulnerabilities, assigns severity levels to those vulnerabilities, and recommends solutions, if needed.
+
+The vulnerability report sets out the key findings of the vulnerability assessment. It details the organisation's IT assets, security flaws, and the overall risk with regards to cyber security.
+
+Vulnerability reports are often reviewed by senior management teams and it is important that they are written clearly and set out the details of any problems and recommended solutions in a clear and understandable way.
+
+=====================================================================
+
+*** Penetration testing report ***
+
+A penetration test report details the findings of the penetration test, a simulated cyber attack against a computer system which checks for exploitable vulnerabilities.
+
+An effective penetration testing report should include an executive summary, a detailed report, and the raw data from the tests. The executive summary should be a very brief overview of the major findings, of around two pages in length.
+
+The detailed report will include a comprehensive list of the findings and proposed solutions. The final section of the report usually includes the technical details and raw output from each of the tools used in the tests.
+
+The penetration test report will be read by people with some technical skills and understanding, such as IT managers, security experts, and network administrators, so it can be written in more technical language.
+
+=====================================================================
+
+*** Incident report ***
+
+Many organisations record cyber security incidents in some form of database, ranging from ticketing systems to excel spreadsheets or in-house software.
+
+The cyber security incident database will contain details of any incidents that are investigated by the security team. Each incident will have information about when it was created and closed, who the investigator was, incident information and impact, etc. 
+
+For most incidents, these reports tend to be quite short, so they should be written in a very clear and concise way.
+
+=====================================================================
+
+*** Internal policy documents ***
+
+Internal policy documents relate to the day‐to‐day administration of an organisation's internal policies, procedures and rules. 
+
+For example, a cyber security professional may have responsibility for writing a policy document on how employees should report or respond to a suspected phishing attempt. Other types of internal policy documents might include a company email use policy or an IT use policy.
+
+These documents are often read by all employees, including those without a high level of technical knowledge, so they need to be clear, easily read, and provide the right level of information to those who are reading them.
