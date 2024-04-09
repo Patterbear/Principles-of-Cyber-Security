@@ -1,0 +1,41 @@
+=====================================================================
+Unit 6: Understand Working with Others in Cyber Security
+Lesson 4: Solving team conflicts
+=====================================================================
+
+Conflict is pretty much inevitable when you work with others.
+
+This is because everyone has different views, and sometimes those differences escalate to conflict. How you handle that conflict determines whether it works to the team’s advantage, or ends up damaging the team.
+
+Conflict isn’t necessarily a bad thing. Healthy and constructive differences are often a part of teamwork. Conflict can arise when people have varying views, experiences, skills, and opinions. Team members should be aware of these differences and not let them lead to full-blown arguments.
+
+Here are some steps that can help resolve conflict effectively:
+
+- Acknowledge the conflict – the conflict has to be recognised before it can be managed and resolved. Usually people ignore the first signs of conflict, perhaps because they hope it will just resolve itself. If you are concerned about conflict in the team, discuss it with the other members. Once the team recognises the issue, it will become easier to resolve.
+
+- Discuss the impact – as a team, discuss the impact of the conflict on team dynamics and performance. When everyone understands the damage conflict is having on the team and the project, people may be more willing to work towards resolving the issue.
+
+- Agree to a cooperative process – everyone involved needs to work together to resolve the conflict. This may mean setting aside individual opinions or ideas for the time being and returning to them later, once things have cooled down.
+
+- Agree to communicate – the most important thing is for communication to remain open. Active listening is an important tool for having constructive conversations, as it helps everyone to understand where the other person is coming from.
+
+
+Sometimes team members simply need to have their problems heard and discussed by the rest of the team. By looking at the argument together, the team can move forward in agreement.
+
+Resolving conflict when it does arise in a quick and efficient fashion helps maintain a strong and healthy team environment. Remaining open to differing beliefs and ideas is vital, and learning to view conflicts from a co-worker’s perspective will help you become a more effective team member.
+
+=====================================================================
+
+*** Test yourself ***
+
+Q1. Which of the following are effective methods of managing conflict?
+
+A1. Acknowledge the conflict, Discuss the impact, Agree to a cooperative process, Agree to communicate.
+
+Q2. Can you match the effective methods of managing conflict with their brief descriptions?
+
+A2.
+	- Acknowledge the conflict -> the conflict has to be recognised before it can be managed and resolved.
+	- Discuss the impact -> as a team, discuss the impact of the conflict on team dynamics and performance.
+	- Agree to a cooperative process -> everyone involved needs to work together to resolve the conflict.
+	- Agree to communicate -> the most important thing is for communication to remain open.
