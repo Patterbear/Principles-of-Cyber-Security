@@ -1,0 +1,65 @@
+=====================================================================
+Unit 6: Understand Working with Others in Cyber Security
+Lesson 10: The potential audience for the written communications used
+=====================================================================
+
+Knowing or anticipating who will be reading what you have written is key to effective written communication. The first question to ask is...
+
+“Who am I writing this for?” 
+
+The answer to this question may not always be obvious.
+
+In an IT role you may produce written communication for a wide range of people including;
+
+- line managers
+
+- senior management
+
+- team members
+
+- external clients or suppliers
+
+- all staff
+
+Within the workplace, it is important to use the correct tone, language and level for your audience. For example, an annual report written on behalf of a large corporate organisation would be extremely professional in terms of its writing style, as it is read by investors. However, an email to a colleague notifying them of when you will install new software on their computer can be short and more informal.
+
+As an IT professional, you also need to be aware of the level of information you need to provide. For example, not everyone will be able to understand complex technical details – you will need to know when to simplify your language and when you can use technical jargon. For example, explaining the inner workings of the security systems may be an information overload for someone requesting a password reset.
+
+For an IT professional, it is important that the level of language used is relevant to the audience. The IT industry has always contained a lot of terminology and abbreviations, and whilst this may make a lot of sense to other IT professionals, non IT experts may struggle to understand the concepts if the language is not adapted to meet their needs. To get a clear message across, always make sure the level of language meets the needs of the audience.
+
+In an IT role, you will have a wide range of audiences and will need to adapt your writing for each.
+
+Typical audiences could be:
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| * Audience *								| * Language *							| * Level of IT language *
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Colleagues in your IT department			| Usually informal						| You can use technical language.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Colleagues in other departments			| Informal/formal depending on reason	| Use limited jargon and offer clear explanations.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Line managers							| Formal								| This will vary by manager, but try to keep language clear and concise.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Clients									| Formal								| Use clear and concise explanation, but technical terms are usually ok.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Suppliers								| Formal								| Technical terms and jargon are fine and often expected.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Government bodies/agencies				| Formal								| This varies by agency, do not assume a high level of knowledge and check first.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Other IT professionals in other organisations	| Informal/formal depending on reason	| Technical language and jargon is expected.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Visitors to the organisation					| Formal								| Explain terms clearly and simply.
+
+=====================================================================
+
+*** Test yourself ***
+
+Q1. Can you sort the client types into the different categories of communication styles?
+
+A1.
+
+- Usually informal: colleagues in your IT department
+
+- Informal/formal depending on reason:  colleagues in other departments
+
+- Formal: line managers, clients, suppliers, government bodies/agencies, visitors to the organisation
